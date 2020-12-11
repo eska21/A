@@ -1,0 +1,642 @@
+<!-- prettier-ignore -->
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+<style>
+h6 {
+color: #4299e1;
+}
+
+td a { color: #4299e1 }
+
+p {
+color: #91c4ee;
+font-size: 13px;
+}
+  
+thead tr th {
+color: #4299e1;
+}
+
+:root {
+--input-alt-cizgi: #4299e1;
+--site-arkaplan: #f9f9f9;
+--kitap-adi-renk: #ff6600;
+--no-renk: #9b2c2c;
+--link-renk: #4299e1;
+--yazar-renk: #9b2c2c;
+--yayinevi-renk: #9b2c2c;
+--sayfa-sayisi-renk: #9b2c2c;
+--durumu-renk: #4299e1;
+--dropdown-arkaplan: #ffffff;
+--dropdown-yazi-renk:#4299e1;
+--yukleniyor-arkaplan: dodgerblue;
+--anasayfa-ikon-renk: #fff;
+--anasayfa-buton-renk: #4299e1;
+}
+
+.container {
+position: relative;
+}
+
+header {
+display: flex;
+justify-content: flex-start;
+padding: 10px;
+align-items: center;
+}
+
+.anasayfa-btn {
+display: flex;
+align-items: center;
+justify-content: center;
+background: var(--anasayfa-buton-renk);
+padding: 0 13px;
+margin-right: 10px;
+}
+
+.anasayfa-btn:hover {
+        box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14),
+          0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);
+        background-color: #ff8080;
+      }
+
+.anasayfa-btn svg {
+width: 15px;
+fill: var(--anasayfa-ikon-renk);
+}
+
+.site-title {
+text-align: center;
+flex:1;
+}
+
+tr td:nth-child(1),
+tr th:nth-child(1),
+tr td:nth-child(3),
+tr th:nth-child(3),
+tr td:nth-child(4),
+tr th:nth-child(4),
+tr td:nth-child(5),
+tr th:nth-child(5),
+tr td:nth-child(6),
+tr th:nth-child(6) {
+text-align: center;
+}
+
+* {
+box-sizing: border-box;
+}
+
+html, body {
+-webkit-tap-highlight-color: transparent; /* for removing the highlight */
+min-height: 100vh;
+}
+body {
+background-color: var(--site-arkaplan); 
+}
+
+.sticky {
+position: sticky;
+top: -1px;
+background: var(--site-arkaplan);
+}
+
+tr td:nth-child(1) {
+color: var(--no-renk);
+}
+tr td:nth-child(2) {
+color: var(--kitap-adi-renk);
+}
+tr td:nth-child(3) {
+color: var(--sayfa-sayisi-renk);
+}
+tr td:nth-child(4) {
+color: var(--yazar-renk);
+}
+tr td:nth-child(5) {
+color: var(--yayinevi-renk);
+}
+tr td:nth-child(6) {
+color: var(--durumu-renk);
+}
+
+.input-field input[type='search']:focus:not(.browser-default) {
+background: transparent;
+box-shadow: 0 1px 0 0 var(--input-alt-cizgi);
+}
+
+.select-wrapper input.select-dropdown:focus {
+border-bottom: 1px solid var(--input-alt-cizgi);
+}
+
+.dropdown-content li > a,
+.dropdown-content li > span {
+color: var(--dropdown-yazi-renk);
+}
+
+.dropdown-content {
+background: var(--dropdown-arkaplan);
+}
+
+#scroll {
+position: fixed;
+right: 10px;
+bottom: 10px;
+cursor: pointer;
+width: 50px;
+height: 50px;
+background-color: #4299e1;
+text-indent: -9999px;
+display: none;
+-webkit-border-radius: 60px;
+-moz-border-radius: 60px;
+border-radius: 60px;
+}
+#scroll svg {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 20px;
+}
+#scroll:hover {
+background-color: #ff8080;
+opacity: 1;
+filter: 'alpha(opacity=100)';
+-ms-filter: 'alpha(opacity=100)';
+}
+
+option {
+white-space: normal;
+}
+
+@media screen and (max-width: 480px) {
+.container {
+width: 100%;
+}
+.input-field input[type='search'],
+.select-wrapper input.select-dropdown {
+font-size: 12px;
+}
+.row {
+margin-bottom: 0;
+}
+.input-field {
+margin-top: 0;
+margin-bottom: 0;
+}
+td,
+th {
+padding: 10px 8px;
+}
+th {
+font-size: 12px;
+}
+.order-table {
+font-size: 12px;
+}
+.dropdown-content li > a,
+.dropdown-content li > span {
+font-size: 13px;
+line-height: 16px;
+padding: 8px 10px;
+}
+.dropdown-content li {
+min-height: unset;
+}
+}
+
+</style>
+</head>
+
+<body>
+<div class="container">
+<header>
+<a href="https://mfs79.github.io/A/AnaSayfa.html" class="anasayfa-btn waves-effect waves-light btn">
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 491.398 491.398" style="enable-background:new 0 0 491.398 491.398;" xml:space="preserve">
+<g id="Icons_19_">
+<path d="M481.765,220.422L276.474,15.123c-16.967-16.918-44.557-16.942-61.559,0.023L9.626,220.422
+c-12.835,12.833-12.835,33.65,0,46.483c12.843,12.842,33.646,12.842,46.487,0l27.828-27.832v214.872
+c0,19.343,15.682,35.024,35.027,35.024h74.826v-97.62c0-7.584,6.146-13.741,13.743-13.741h76.352
+c7.59,0,13.739,6.157,13.739,13.741v97.621h74.813c19.346,0,35.027-15.681,35.027-35.024V239.091l27.812,27.815
+c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,254.072,494.609,233.256,481.765,220.422z"/>
+</g>
+</svg>
+</a>
+<h6 class="site-title">{ Kütüphanedeki Orjinal Boyutlu Kitaplar }<br>
+<p> </p>
+<p>{ Dosya Boyutu Büyük (Renkli) Kitaplar Yer Almaktadır }</p></h6>
+</header>
+
+<div class="row sticky">
+<div class="input-field col m6 s12">
+<input type="search" class="light-table-filter" data-table="order-table" placeholder="Aramak için enter'a basın..."/>
+</div>
+<div class="input-field col m6 s12">
+<select class="select-table-filter" type="search" data-table="order-table">
+<option value="">Yazar Seçin</option>
+<option value="(Ahmet Mahmut Ünlü)">(Ahmet Mahmut Ünlü)</option>
+<option value="(Mustafa Özşimşekler)">(Mustafa Özşimşekler)</option>
+<option value="(-)">(-)</option>
+<option value="(A. Faruk Meyan)">(A. Faruk Meyan)</option>
+<option value="(Abdulaziz es-Seyrun)">(Abdulaziz es-Seyrun)</option>
+<option value="(Abdulfettah Ebu Gudde)">(Abdulfettah Ebu Gudde)</option>
+<option value="(Abdulhalik Ustaosmanoğlu)">(Abdulhalik Ustaosmanoğlu)</option>
+<option value="(Abdulkadir Dal)">(Abdulkadir Dal)</option>
+<option value="(Abdulkerim Kuşeyri)">(Abdulkerim Kuşeyri)</option>
+<option value="(Abdullah Bin Mübarek)">(Abdullah Bin Mübarek)</option>
+<option value="(Abdullah Demiray)">(Abdullah Demiray)</option>
+<option value="(Abdullah Eymen)">(Abdullah Eymen)</option>
+<option value="(Abdullah Kara)">(Abdullah Kara)</option>
+<option value="(Abdullah Nakışçı)">(Abdullah Nakışçı)</option>
+<option value="(Abdulmun'im El-Haşimi)">(Abdulmun'im El-Haşimi)</option>
+<option value="(Abdulvahap Yıldız)">(Abdulvahap Yıldız)</option>
+<option value="(Abdurrahman Altundağ)">(Abdurrahman Altundağ)</option>
+<option value="(Abdurrahman Göldağı)">(Abdurrahman Göldağı)</option>
+<option value="(Abdülaziz Hatip)">(Abdülaziz Hatip)</option>
+<option value="(Abdülkadir Geylani)">(Abdülkadir Geylani)</option>
+<option value="(Abdülkerim el-Cili)">(Abdülkerim el-Cili)</option>
+<option value="(Abdülkerim Kuşeyri)">(Abdülkerim Kuşeyri)</option>
+<option value="(Abdülmecid Hani)">(Abdülmecid Hani)</option>
+<option value="(Abdülmetin Balkanlıoğlu)">(Abdülmetin Balkanlıoğlu)</option>
+<option value="(Adem Güneş)">(Adem Güneş)</option>
+<option value="(Adem Şener)">(Adem Şener)</option>
+<option value="(Ahmed B. Hüseyin El-Harakani)">(Ahmed B. Hüseyin El-Harakani)</option>
+<option value="(Ahmet Akay Azak)">(Ahmet Akay Azak)</option>
+<option value="(Ahmet Altun)">(Ahmet Altun)</option>
+<option value="(Ahmet Badla)">(Ahmet Badla)</option>
+<option value="(Ahmet Bulut)">(Ahmet Bulut)</option>
+<option value="(Ahmet Cevdet Paşa)">(Ahmet Cevdet Paşa)</option>
+<option value="(Ahmet Coşkun)">(Ahmet Coşkun)</option>
+<option value="(Ahmet Çağıl)">(Ahmet Çağıl)</option>
+<option value="(Ahmet Faik Arslantürkoğlu)">(Ahmet Faik Arslantürkoğlu)</option>
+<option value="(Ahmet Fikri Doğan)">(Ahmet Fikri Doğan)</option>
+<option value="(Ahmet Gültekin)">(Ahmet Gültekin)</option>
+<option value="(Ahmet Kasım Fidan)">(Ahmet Kasım Fidan)</option>
+<option value="(Ahmet Önkal)">(Ahmet Önkal)</option>
+<option value="(Ahmet Yatağan)">(Ahmet Yatağan)</option>
+<option value="(Aidin Salih)">(Aidin Salih)</option>
+<option value="(Ali Arslan Aydın)">(Ali Arslan Aydın)</option>
+<option value="(Ali Arslan)">(Ali Arslan)</option>
+<option value="(Ali Başkar)">(Ali Başkar)</option>
+<option value="(Ali Eren)">(Ali Eren)</option>
+<option value="(Ali Haşimi)">(Ali Haşimi)</option>
+<option value="(Ali Haydar)">(Ali Haydar)</option>
+<option value="(Ali Kara)">(Ali Kara)</option>
+<option value="(Ali Sözler)">(Ali Sözler)</option>
+<option value="(Ali Şir Nevai)">(Ali Şir Nevai)</option>
+<option value="(Aliyyül Kari)">(Aliyyül Kari)</option>
+<option value="(Allame Cemaleddin el-Kasimi)">(Allame Cemaleddin el-Kasimi)</option>
+<option value="(Arif Arslan)">(Arif Arslan)</option>
+<option value="(Arif Pamuk)">(Arif Pamuk)</option>
+<option value="(Avnikli Molla Halil)">(Avnikli Molla Halil)</option>
+<option value="(Ayhan Yalçın)">(Ayhan Yalçın)</option>
+<option value="(Ayşegül Akakuş Akgün)">(Ayşegül Akakuş Akgün)</option>
+<option value="(Bediüzzaman Said Nursi)">(Bediüzzaman Said Nursi)</option>
+<option value="(Bekir Nas)">(Bekir Nas)</option>
+<option value="(Burhan Bozgeyik)">(Burhan Bozgeyik)</option>
+<option value="(Bünyamin Kadıoğlu)">(Bünyamin Kadıoğlu)</option>
+<option value="(Canan Doludizgin)">(Canan Doludizgin)</option>
+<option value="(Davut Kaya)">(Davut Kaya)</option>
+<option value="(Dilaver Selvi)">(Dilaver Selvi)</option>
+<option value="(Ebu Abdurrahman es-Sülemi)">(Ebu Abdurrahman es-Sülemi)</option>
+<option value="(Ebu Davud Süleyman)">(Ebu Davud Süleyman)</option>
+<option value="(Ebu Muhammed Abdullah el Hanbeli)">(Ebu Muhammed Abdullah el Hanbeli)</option>
+<option value="(Ebubekir Acurri)">(Ebubekir Acurri)</option>
+<option value="(Ebubekir Subaşı)">(Ebubekir Subaşı)</option>
+<option value="(Ebu'l Hasen Ali b. İbrahim el-Kari)">(Ebu'l Hasen Ali b. İbrahim el-Kari)</option>
+<option value="(Ebu'l-Leys Semerkandi)">(Ebu'l-Leys Semerkandi)</option>
+<option value="(Ekrem Sağıroğlu)">(Ekrem Sağıroğlu)</option>
+<option value="(Emel Çalışkan)">(Emel Çalışkan)</option>
+<option value="(Emir Sultan)">(Emir Sultan)</option>
+<option value="(Enes Uner)">(Enes Uner)</option>
+<option value="(Ensar Aslan)">(Ensar Aslan)</option>
+<option value="(Ersan Urcan)">(Ersan Urcan)</option>
+<option value="(Erzurumlu İbrahim Hakkı)">(Erzurumlu İbrahim Hakkı)</option>
+<option value="(Esma Muratoğlu)">(Esma Muratoğlu)</option>
+<option value="(Es-Samarrai)">(Es-Samarrai)</option>
+<option value="(Eşrefoğlu Rumi)">(Eşrefoğlu Rumi)</option>
+<option value="(Eyüp Beyhan)">(Eyüp Beyhan)</option>
+<option value="(Fahreddin er-Razi)">(Fahreddin er-Razi)</option>
+<option value="(Fatih Kalender)">(Fatih Kalender)</option>
+<option value="(Fatma Kahya)">(Fatma Kahya)</option>
+<option value="(Fatma Temir)">(Fatma Temir)</option>
+<option value="(Fazilet Neşriyat Araştırma Heyeti)">(Fazilet Neşriyat Araştırma Heyeti)</option>
+<option value="(Fehmi Mendeş)">(Fehmi Mendeş)</option>
+<option value="(Feridüddin Attar)">(Feridüddin Attar)</option>
+<option value="(Furkan Kandemir)">(Furkan Kandemir)</option>
+<option value="(Gülay Kaplan)">(Gülay Kaplan)</option>
+<option value="(Gülseren Şenyüzlü)">(Gülseren Şenyüzlü)</option>
+<option value="(Gülsüm Devran Eken)">(Gülsüm Devran Eken)</option>
+<option value="(Gürel Vural)">(Gürel Vural)</option>
+<option value="(H.Ahmet Özdemir)">(H.Ahmet Özdemir)</option>
+<option value="(Hacı Hüsam İbrahim b.Muhammed El-Kazeruni)">(Hacı Hüsam İbrahim b.Muhammed El-Kazeruni)</option>
+<option value="(Hadime M. Yacan)">(Hadime M. Yacan)</option>
+<option value="(Hafız Hulusi Efendi)">(Hafız Hulusi Efendi)</option>
+<option value="(Hafız Münziri)">(Hafız Münziri)</option>
+<option value="(Hakim et-Tirmizi)">(Hakim et-Tirmizi)</option>
+<option value="(Halil Kara)">(Halil Kara)</option>
+<option value="(Hamza Tatlı)">(Hamza Tatlı)</option>
+<option value="(Hanifi Akın)">(Hanifi Akın)</option>
+<option value="(Haris El-Muhasibi)">(Haris El-Muhasibi)</option>
+<option value="(Harun Yıldırım)">(Harun Yıldırım)</option>
+<option value="(Havva Osmanlı)">(Havva Osmanlı)</option>
+<option value="(Havva Özkan)">(Havva Özkan)</option>
+<option value="(Haydarı Kerrar)">(Haydarı Kerrar)</option>
+<option value="(Heyet)">(Heyet)</option>
+<option value="(Hikmet Özdemir)">(Hikmet Özdemir)</option>
+<option value="(Hilal Kara)">(Hilal Kara)</option>
+<option value="(Hüsamettin Vanlıoğlu)">(Hüsamettin Vanlıoğlu)</option>
+<option value="(Hüseyin Nihal Atsız)">(Hüseyin Nihal Atsız)</option>
+<option value="(Hüseyin Okur)">(Hüseyin Okur)</option>
+<option value="(İbn Arabi)">(İbn Arabi)</option>
+<option value="(İbn Ataullah El-İskenderi)">(İbn Ataullah El-İskenderi)</option>
+<option value="(İbn Kesir)">(İbn Kesir)</option>
+<option value="(İbn Sevdekin)">(İbn Sevdekin)</option>
+<option value="(İbn-i Hacer Askalani)">(İbn-i Hacer Askalani)</option>
+<option value="(İbn-i Hacib)">(İbn-i Hacib)</option>
+<option value="(İbn'ul Cevzi)">(İbn'ul Cevzi)</option>
+<option value="(İbnü'l Meylak)">(İbnü'l Meylak)</option>
+<option value="(İbrahim Salihoğlu)">(İbrahim Salihoğlu)</option>
+<option value="(İbrahim Yaman)">(İbrahim Yaman)</option>
+<option value="(İbrahim Yücel)">(İbrahim Yücel)</option>
+<option value="(İhsan Salih Salihoğlu)">(İhsan Salih Salihoğlu)</option>
+<option value="(İhsan Şenocak)">(İhsan Şenocak)</option>
+<option value="(İlmi Heyet - Komisyon)">(İlmi Heyet - Komisyon)</option>
+<option value="(İlyas Karslı)">(İlyas Karslı)</option>
+<option value="(İmam Beyhaki)">(İmam Beyhaki)</option>
+<option value="(İmam Birgivi)">(İmam Birgivi)</option>
+<option value="(İmam Buhari)">(İmam Buhari)</option>
+<option value="(İmam Celaleddin Es-Suyuti)">(İmam Celaleddin Es-Suyuti)</option>
+<option value="(İmam Gazali)">(İmam Gazali)</option>
+<option value="(İmam İbn Kayyim El-Cevziyye)">(İmam İbn Kayyim El-Cevziyye)</option>
+<option value="(İmam Muhasibi)">(İmam Muhasibi)</option>
+<option value="(İmam Nablusi)">(İmam Nablusi)</option>
+<option value="(İmam Nevevi)">(İmam Nevevi)</option>
+<option value="(İmam Şarani)">(İmam Şarani)</option>
+<option value="(İmam Tahavi)">(İmam Tahavi)</option>
+<option value="(İmam Yafii)">(İmam Yafii)</option>
+<option value="(İmam-ı Rabbani)">(İmam-ı Rabbani)</option>
+<option value="(İmam-ı Şibli)">(İmam-ı Şibli)</option>
+<option value="(İsa Osman Şangar)">(İsa Osman Şangar)</option>
+<option value="(İslamzade Ahmed Yavuz)">(İslamzade Ahmed Yavuz)</option>
+<option value="(İsmail Hakkı Bursevi)">(İsmail Hakkı Bursevi)</option>
+<option value="(İsmailağa Telif Heyeti)">(İsmailağa Telif Heyeti)</option>
+<option value="(İsmailağa)">(İsmailağa)</option>
+<option value="(İzzet Ay)">(İzzet Ay)</option>
+<option value="(Kadı Ebu Şucca)">(Kadı Ebu Şucca)</option>
+<option value="(Kadir Güneş)">(Kadir Güneş)</option>
+<option value="(Kara Davud)">(Kara Davud)</option>
+<option value="(Kemaleddin Demiri)">(Kemaleddin Demiri)</option>
+<option value="(Kenan Demirtaş)">(Kenan Demirtaş)</option>
+<option value="(Kubilay Aktaş)">(Kubilay Aktaş)</option>
+<option value="(Kübra Ülkü)">(Kübra Ülkü)</option>
+<option value="(Lokman Hekim)">(Lokman Hekim)</option>
+<option value="(Mahmud Sami Ramazanoğlu)">(Mahmud Sami Ramazanoğlu)</option>
+<option value="(Mahmud Ustaosmanoğlu)">(Mahmud Ustaosmanoğlu)</option>
+<option value="(Mahmut Eren)">(Mahmut Eren)</option>
+<option value="(Mahmut Haseni)">(Mahmut Haseni)</option>
+<option value="(Mahmut Şevket Ustaosmanoğlu)">(Mahmut Şevket Ustaosmanoğlu)</option>
+<option value="(Mehmed Muhyiddin Üftade)">(Mehmed Muhyiddin Üftade)</option>
+<option value="(Mehmet Ali Bulut)">(Mehmet Ali Bulut)</option>
+<option value="(Mehmet Ali Sarı)">(Mehmet Ali Sarı)</option>
+<option value="(Mehmet Arlı)">(Mehmet Arlı)</option>
+<option value="(Mehmet Emre)">(Mehmet Emre)</option>
+<option value="(Mehmet Ildırar)">(Mehmet Ildırar)</option>
+<option value="(Mehmet Paksu)">(Mehmet Paksu)</option>
+<option value="(Mehmet Talu)">(Mehmet Talu)</option>
+<option value="(Mehmet Yaşar Kandemir)">(Mehmet Yaşar Kandemir)</option>
+<option value="(Mesut Kalalı)">(Mesut Kalalı)</option>
+<option value="(Mevlana Ali b.Hüseyin Es-Safi)">(Mevlana Ali b.Hüseyin Es-Safi)</option>
+<option value="(Mevlana Muhammed Rebhami)">(Mevlana Muhammed Rebhami)</option>
+<option value="(Mevlut Sarı)">(Mevlut Sarı)</option>
+<option value="(Molla Cami)">(Molla Cami)</option>
+<option value="(Mostarlı Ziya-i)">(Mostarlı Ziya-i)</option>
+<option value="(Muhammed Ali Sabuni)">(Muhammed Ali Sabuni)</option>
+<option value="(Muhammed bin Said el-Busiri)">(Muhammed bin Said el-Busiri)</option>
+<option value="(Muhammed Emin Yıldırım)">(Muhammed Emin Yıldırım)</option>
+<option value="(Muhammed İbrahim Hızır El Amedi)">(Muhammed İbrahim Hızır El Amedi)</option>
+<option value="(Muhammed İsa Davud)">(Muhammed İsa Davud)</option>
+<option value="(Muhammed Osmanoğlu)">(Muhammed Osmanoğlu)</option>
+<option value="(Muhammed Sadık Hamidi)">(Muhammed Sadık Hamidi)</option>
+<option value="(Muhammed Yusuf Kandehlevi)">(Muhammed Yusuf Kandehlevi)</option>
+<option value="(Muhammed Zahid El Kevseri)">(Muhammed Zahid El Kevseri)</option>
+<option value="(Muhammed Zekeriyya Kandehlevi)">(Muhammed Zekeriyya Kandehlevi)</option>
+<option value="(Muhyiddin-i Arabi)">(Muhyiddin-i Arabi)</option>
+<option value="(Murat Göymen)">(Murat Göymen)</option>
+<option value="(Mustafa İsmail Fındıklı)">(Mustafa İsmail Fındıklı)</option>
+<option value="(Mustafa Murad)">(Mustafa Murad)</option>
+<option value="(Mustafa Necati Bursalı)">(Mustafa Necati Bursalı)</option>
+<option value="(Mustafa Özer)">(Mustafa Özer)</option>
+<option value="(Mustafa Sıbai)">(Mustafa Sıbai)</option>
+<option value="(Mükerrem Mete)">(Mükerrem Mete)</option>
+<option value="(N.Balım)">(N.Balım)</option>
+<option value="(Necla Yasdıman)">(Necla Yasdıman)</option>
+<option value="(Necmeddin Kübra)">(Necmeddin Kübra)</option>
+<option value="(Nimetullah Nahçıvan-i)">(Nimetullah Nahçıvan-i)</option>
+<option value="(Orhan Çeker)">(Orhan Çeker)</option>
+<option value="(Osman Hopavi)">(Osman Hopavi)</option>
+<option value="(Osman Pamuk)">(Osman Pamuk)</option>
+<option value="(Ömer Faruk Demireşik)">(Ömer Faruk Demireşik)</option>
+<option value="(Ömer Faruk Hilmi)">(Ömer Faruk Hilmi)</option>
+<option value="(Ömer Faruk Korkmaz)">(Ömer Faruk Korkmaz)</option>
+<option value="(Ömer Muhammed Öztürk)">(Ömer Muhammed Öztürk)</option>
+<option value="(Ömer Mustafa Dönmez)">(Ömer Mustafa Dönmez)</option>
+<option value="(Ömer Nasuhi Bilmen)">(Ömer Nasuhi Bilmen)</option>
+<option value="(Ragıp Güzel)">(Ragıp Güzel)</option>
+<option value="(Rahmi Serin)">(Rahmi Serin)</option>
+<option value="(Raif Cilasun)">(Raif Cilasun)</option>
+<option value="(Rauf Ahmed Müceddidi)">(Rauf Ahmed Müceddidi)</option>
+<option value="(Recai Yahyaoğlu)">(Recai Yahyaoğlu)</option>
+<option value="(Recep Tutar)">(Recep Tutar)</option>
+<option value="(S. Mübarek Erol)">(S. Mübarek Erol)</option>
+<option value="(Salih Memişoğlu)">(Salih Memişoğlu)</option>
+<option value="(Salih Suruç)">(Salih Suruç)</option>
+<option value="(Sami Arslan)">(Sami Arslan)</option>
+<option value="(Sefa Saygılı)">(Sefa Saygılı)</option>
+<option value="(Selahattin Yaylamaz)">(Selahattin Yaylamaz)</option>
+<option value="(Selçuk Yıldırım)">(Selçuk Yıldırım)</option>
+<option value="(Selim Seyhan)">(Selim Seyhan)</option>
+<option value="(Selim Uğur)">(Selim Uğur)</option>
+<option value="(Serap Duygulu)">(Serap Duygulu)</option>
+<option value="(Seyyid Muhammed Hakkı En Nazilli)">(Seyyid Muhammed Hakkı En Nazilli)</option>
+<option value="(Seyyid Süleyman El Hüseyni)">(Seyyid Süleyman El Hüseyni)</option>
+<option value="(Sıddık Naci Eren)">(Sıddık Naci Eren)</option>
+<option value="(Siraceddin Önlüer)">(Siraceddin Önlüer)</option>
+<option value="(Suat Demirtaş)">(Suat Demirtaş)</option>
+<option value="(Süleyman Dama)">(Süleyman Dama)</option>
+<option value="(Süleyman El Cezuli)">(Süleyman El Cezuli)</option>
+<option value="(Süleyman Kuku)">(Süleyman Kuku)</option>
+<option value="(Süleyman Musa)">(Süleyman Musa)</option>
+<option value="(Şaban Sadoğlu)">(Şaban Sadoğlu)</option>
+<option value="(Şemsüddin Ahmedsivasi)">(Şemsüddin Ahmedsivasi)</option>
+<option value="(Şerafettin Şenaslan)">(Şerafettin Şenaslan)</option>
+<option value="(Şeyh Ahmed Deyrebi)">(Şeyh Ahmed Deyrebi)</option>
+<option value="(Şeyh Ali Behçet Efendi)">(Şeyh Ali Behçet Efendi)</option>
+<option value="(Şükrü Altın)">(Şükrü Altın)</option>
+<option value="(Tuncel Altınköprü)">(Tuncel Altınköprü)</option>
+<option value="(Vahit Göktaş)">(Vahit Göktaş)</option>
+<option value="(Veysel Akkaya)">(Veysel Akkaya)</option>
+<option value="(Yasemin Önder)">(Yasemin Önder)</option>
+<option value="(Yaşar Kandemir)">(Yaşar Kandemir)</option>
+<option value="(Yavuz Bahadıroğlu)">(Yavuz Bahadıroğlu)</option>
+<option value="(Yımaz Yenidinç)">(Yımaz Yenidinç)</option>
+<option value="(Yusuf Nebhani)">(Yusuf Nebhani)</option>
+<option value="(Yusuf Tavaslı)">(Yusuf Tavaslı)</option>
+</select>
+</div>
+</div>
+<table class="order-table">
+<thead>
+<tr>
+<th style="width: 7%">No</th>
+<th style="width: 41%;">Kitap Adı</th>
+<th style="width: 7%;">Sayfa Sayısı</th>
+<th style="width: 15%">Yazar</th>
+<th style="width: 15%">Yayınevi</th>
+<th style="width: 15%">Durumu</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+
+<a href="#" id="scroll" style="display: none">
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 50.454 50.454" style="enable-background:new 0 0 50.454 50.454;" xml:space="preserve">
+
+<path style="fill:#ffffff;" d="M42.359,25.479L27.122,1.25c-1.048-1.667-2.747-1.667-3.795,0L8.095,25.479
+          c-1.048,1.667-0.316,2.801,1.635,2.532l5.43-0.885c1.95-0.269,3.531,1.11,3.531,3.079v16.683c0,1.969,1.596,3.566,3.565,3.566
+          h5.935c1.97,0,3.566-1.596,3.566-3.566V30.206c0-1.969,1.582-3.348,3.531-3.079l5.436,0.885
+          C42.674,28.28,43.407,27.146,42.359,25.479z"/>
+</svg>
+</a>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+<script>
+;(function (document) {
+'use strict'
+
+let htmlStr = ''
+
+fetch(
+'https://raw.githubusercontent.com/mfs79/A/master/Kitaplar1.json'
+)
+.then((response) => response.json())
+.then((data) => {
+data.forEach((p) => {
+htmlStr += `<tr style="display:hidden;">
+<td>${p['No']}</td>
+${p["Link"] != null ? '<td><a href="' + p["Link"] + '" target="_blank">' + p["Kitap Adı"] + '</a></td>' : '<td>' + p["Kitap Adı"] + '</td>'}
+<td>${p['Sayfa Sayısı']}</td>
+<td>${p['Yazar']}</td>
+<td>${p['Yayınevi']}</td>
+<td>${p['Durumu']}</td>
+</tr>`
+})
+})
+.then(() => {
+document.querySelector('.order-table > tbody').innerHTML = htmlStr
+})
+
+var LightTableFilter = (function (Arr) {
+var _input
+var _select
+
+function _onInputEvent(e) {
+_input = e.target
+var tables = document.getElementsByClassName(
+_input.getAttribute('data-table')
+)
+if (_input.value == '') {
+document
+.querySelectorAll('.order-table tbody tr')
+.forEach((p) => {
+p.style.display = 'none'
+})
+} else if (e.key === 'Enter' || e.keyCode === 13) {
+Arr.forEach.call(tables, function (table) {
+Arr.forEach.call(table.tBodies, function (tbody) {
+Arr.forEach.call(tbody.rows, _filter)
+})
+})
+}
+}
+
+function _onSelectEvent(e) {
+_select = e.target
+var tables = document.getElementsByClassName(
+_select.getAttribute('data-table')
+)
+Arr.forEach.call(tables, function (table) {
+Arr.forEach.call(table.tBodies, function (tbody) {
+Arr.forEach.call(tbody.rows, _filterSelect)
+})
+})
+}
+
+function _filter(row) {
+var text = row.textContent.toLocaleLowerCase('tr'),
+val = _input.value.toLocaleLowerCase('tr')
+row.style.display = text.indexOf(val) === -1 ? 'none' : 'table-row'
+}
+
+function _filterSelect(row) {
+var text_select = row.textContent.toLocaleLowerCase('tr'),
+val_select = _select.options[
+_select.selectedIndex
+].value.toLocaleLowerCase('tr')
+row.style.display =
+text_select.indexOf(val_select) === -1 ? 'none' : 'table-row'
+}
+
+return {
+init: function () {
+var inputs = document.getElementsByClassName('light-table-filter')
+var selects = document.getElementsByClassName(
+'select-table-filter'
+)
+Arr.forEach.call(inputs, function (input) {
+input.onkeyup = _onInputEvent
+})
+Arr.forEach.call(selects, function (select) {
+select.onchange = _onSelectEvent
+})
+},
+}
+})(Array.prototype)
+
+document.addEventListener('readystatechange', function () {
+if (document.readyState === 'complete') {
+LightTableFilter.init()
+}
+})
+})(document)
+$(document).ready(function () {
+$('select').formSelect()
+$(window).scroll(function () {
+if ($(this).scrollTop() > 100) {
+$('#scroll').fadeIn()
+} else {
+$('#scroll').fadeOut()
+}
+})
+$('#scroll').click(function () {
+$('html, body').animate({ scrollTop: 0 }, 600)
+return false
+})
+})
+</script>
+</body>
+</html>
