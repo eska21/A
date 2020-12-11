@@ -27,21 +27,57 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "4",
-    "Konu": "Kitaplık Extra Konular",
-    "Link": "https://mfs79.github.io/A/KitapExtra.html",
-    "Konu Sayısı": "13",
-    "Güncelleme Tarihi": "2020-12-05T08:00:00.000Z",
-    "Resim": "https://mfs79.github.io/A/iconAna/Cekmece.png",
-    "Durumu": "Hazır"
-  },
-  {
     "No": "5",
     "Konu": "Kütüphanedeki Kitaplardaki Esma-ül Hüsnalar Havas ve Esrarları",
     "Link": "https://mfs79.github.io/A/EsmaTekTekOzel.html",
     "Konu Sayısı": "30",
     "Güncelleme Tarihi": "2020-12-05T08:00:00.000Z",
     "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "7",
+    "Konu": "Dergilerdeki Tüm (Faziletli Ameller)",
+    "Link": "https://mfs79.github.io/A/DergiAmeller.html",
+    "Konu Sayısı": "320",
+    "Güncelleme Tarihi": "2020-10-22T07:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "8",
+    "Konu": "Dergilerdeki Tüm (Yazılar - Makaleler)",
+    "Link": "https://mfs79.github.io/A/Makaleler.html",
+    "Konu Sayısı": "1313",
+    "Güncelleme Tarihi": "2020-10-22T07:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "9",
+    "Konu": "Fıkhi Sorulara Cevaplar (Videolu)",
+    "Link": "https://mfs79.github.io/A/Sualler.html",
+    "Konu Sayısı": "2192",
+    "Güncelleme Tarihi": "2020-10-22T07:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/SiyahArama.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "10",
+    "Konu": "Cübeliden Blogspot (Site İçinde Arama)",
+    "Link": "https://mfs79.github.io/A/Blog.html",
+    "Konu Sayısı": "505",
+    "Güncelleme Tarihi": "2020-11-24T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Cubbeliden.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "11",
+    "Konu": "Cübbeli Hocamızın Kitaplarının (İndexleri)",
+    "Link": "https://mfs79.github.io/A/indexler.html",
+    "Konu Sayısı": "6863",
+    "Güncelleme Tarihi": "2020-11-24T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Kahve.png",
     "Durumu": "Hazır"
   }
 ]
