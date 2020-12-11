@@ -1,0 +1,47 @@
+[
+  {
+    "No": "1",
+    "Konu": "Kitaplar 1 (Orjinal Boyut)",
+    "Link": "https://mfs79.github.io/A/Kitaplar1.html",
+    "Konu Sayısı": "871",
+    "Güncelleme Tarihi": "2020-12-07T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Kahve.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "2",
+    "Konu": "Kitaplar 2 (Düşük Boyut)",
+    "Link": "https://mfs79.github.io/A/Kitaplar2.html",
+    "Konu Sayısı": "871",
+    "Güncelleme Tarihi": "2020-12-07T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Turuncu.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "3",
+    "Konu": "Dergiler (Tüm Dergiler)",
+    "Link": "https://mfs79.github.io/A/Dergiler.html",
+    "Konu Sayısı": "207",
+    "Güncelleme Tarihi": "2020-12-03T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "4",
+    "Konu": "Kitaplık Extra Konular",
+    "Link": "https://mfs79.github.io/A/KitapExtra.html",
+    "Konu Sayısı": "13",
+    "Güncelleme Tarihi": "2020-12-05T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Cekmece.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "5",
+    "Konu": "Kütüphanedeki Kitaplardaki Esma-ül Hüsnalar Havas ve Esrarları",
+    "Link": "https://mfs79.github.io/A/EsmaTekTekOzel.html",
+    "Konu Sayısı": "30",
+    "Güncelleme Tarihi": "2020-12-05T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
+    "Durumu": "Hazır"
+  }
+]
