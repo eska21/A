@@ -3,8 +3,8 @@
     "No": "1",
     "Konu": "Kitaplar 1 (Orjinal Boyut)",
     "Link": "https://mfs79.github.io/A/Kitaplar1.html",
-    "Konu Sayısı": "105",
-    "Güncelleme Tarihi": "2020-12-07T08:00:00.000Z",
+    "Konu Sayısı": "887",
+    "Güncelleme Tarihi": "2020-12-19T08:00:00.000Z",
     "Resim": "https://mfs79.github.io/A/iconAna/Kahve.png",
     "Durumu": "Hazır"
   },
@@ -12,8 +12,8 @@
     "No": "2",
     "Konu": "Kitaplar 2 (Düşük Boyut)",
     "Link": "https://mfs79.github.io/A/Kitaplar2.html",
-    "Konu Sayısı": "105",
-    "Güncelleme Tarihi": "2020-12-07T08:00:00.000Z",
+    "Konu Sayısı": "887",
+    "Güncelleme Tarihi": "2020-12-19T08:00:00.000Z",
     "Resim": "https://mfs79.github.io/A/iconAna/Turuncu.png",
     "Durumu": "Hazır"
   },
@@ -27,16 +27,16 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "5",
-    "Konu": "Kütüphanedeki Kitaplardaki Esma-ül Hüsnalar Havas ve Esrarları",
-    "Link": "https://mfs79.github.io/A/EsmaTekTekOzel.html",
-    "Konu Sayısı": "36",
-    "Güncelleme Tarihi": "2020-12-17T08:00:00.000Z",
-    "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
+    "No": "4",
+    "Konu": "Çocuklara Özel 70 Eser",
+    "Link": "https://mfs79.github.io/A/Cocuk70Eser.html",
+    "Konu Sayısı": "70",
+    "Güncelleme Tarihi": "2020-11-13T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Sari.png",
     "Durumu": "Hazır"
   },
   {
-    "No": "6",
+    "No": "5",
     "Konu": "Dergilerdeki Tüm (Faziletli Ameller)",
     "Link": "https://mfs79.github.io/A/DergiAmeller.html",
     "Konu Sayısı": "320",
@@ -45,11 +45,20 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "7",
+    "No": "6",
     "Konu": "Dergilerdeki Tüm (Yazılar - Makaleler)",
     "Link": "https://mfs79.github.io/A/Makaleler.html",
     "Konu Sayısı": "1313",
     "Güncelleme Tarihi": "2020-10-22T07:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "7",
+    "Konu": "Kütüphanedeki Kitaplardaki Esma-ül Hüsnalar Havas ve Esrarları",
+    "Link": "https://mfs79.github.io/A/EsmaTekTekOzel.html",
+    "Konu Sayısı": "36",
+    "Güncelleme Tarihi": "2020-12-17T08:00:00.000Z",
     "Resim": "https://mfs79.github.io/A/iconAna/Kirmizi.png",
     "Durumu": "Hazır"
   },
