@@ -19,7 +19,7 @@
   },
   {
     "No": "3",
-    "Konu": "Dergiler (Tüm Dergiler)",
+    "Konu": "Dergiler",
     "Link": "https://mfs79.github.io/A/Dergiler.html",
     "Konu Sayısı": "159",
     "Güncelleme Tarihi": "2020-12-03T08:00:00.000Z",
@@ -37,7 +37,7 @@
   },
   {
     "No": "5",
-    "Konu": "Listeye Son Eklenen Kitaplar",
+    "Konu": "Listeye Son Eklenenler",
     "Link": "https://mfs79.github.io/A/ListeSonEklenen.html",
     "Konu Sayısı": "33",
     "Güncelleme Tarihi": "2020-12-07T08:00:00.000Z",
@@ -46,7 +46,7 @@
   },
   {
     "No": "6",
-    "Konu": "Dergilerdeki Tüm (Faziletli Ameller)",
+    "Konu": "Dergi (Faziletli Ameller)",
     "Link": "https://mfs79.github.io/A/DergiAmeller.html",
     "Konu Sayısı": "330",
     "Güncelleme Tarihi": "2020-12-22T08:00:00.000Z",
@@ -55,7 +55,7 @@
   },
   {
     "No": "7",
-    "Konu": "Dergilerdeki Tüm (Yazılar - Makaleler)",
+    "Konu": "Dergi (Yazılar)",
     "Link": "https://mfs79.github.io/A/Makaleler.html",
     "Konu Sayısı": "1548",
     "Güncelleme Tarihi": "2020-12-22T08:00:00.000Z",
@@ -64,7 +64,7 @@
   },
   {
     "No": "8",
-    "Konu": "Kütüphanedeki Kitaplardaki Esma-ül Hüsnalar Havas ve Esrarları",
+    "Konu": "Esma-ül Hüsna Havas ve Esrarları",
     "Link": "https://mfs79.github.io/A/EsmaTekTekOzel.html",
     "Konu Sayısı": "36",
     "Güncelleme Tarihi": "2020-12-17T08:00:00.000Z",
@@ -73,7 +73,7 @@
   },
   {
     "No": "9",
-    "Konu": "Fıkhi Sorulara Cevaplar (Videolu)",
+    "Konu": "Fıkhi Sorulara (Videolu)",
     "Link": "https://mfs79.github.io/A/Sualler.html",
     "Konu Sayısı": "2192",
     "Güncelleme Tarihi": "2020-10-22T07:00:00.000Z",
@@ -82,7 +82,7 @@
   },
   {
     "No": "10",
-    "Konu": "Cübeliden Blogspot (Site İçinde Arama)",
+    "Konu": "cubbeliden.blogspot.com (Arama)",
     "Link": "https://mfs79.github.io/A/Blog.html",
     "Konu Sayısı": "505",
     "Güncelleme Tarihi": "2020-11-24T08:00:00.000Z",
@@ -91,7 +91,7 @@
   },
   {
     "No": "11",
-    "Konu": "Cübbeli Hocamızın Kitaplarının (İçindekiler)",
+    "Konu": "Cübbeli Hoca Kitaplarının (İndex)",
     "Link": "https://mfs79.github.io/A/indexler.html",
     "Konu Sayısı": "6863",
     "Güncelleme Tarihi": "2020-11-24T08:00:00.000Z",
