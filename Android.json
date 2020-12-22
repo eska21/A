@@ -19,15 +19,6 @@
   },
   {
     "No": "3",
-    "Konu": "Dergiler",
-    "Link": "https://mfs79.github.io/A/Dergiler.html",
-    "Konu Sayısı": "159",
-    "Güncelleme Tarihi": "2020-12-03T08:00:00.000Z",
-    "Resim": "https://mfs79.github.io/A/iconAna/Dergi.png",
-    "Durumu": "Hazır"
-  },
-  {
-    "No": "4",
     "Konu": "Çocuklara Özel 70 Eser",
     "Link": "https://mfs79.github.io/A/Cocuk70Eser.html",
     "Konu Sayısı": "70",
@@ -36,16 +27,16 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "5",
-    "Konu": "Listeye Son Eklenenler",
-    "Link": "https://mfs79.github.io/A/ListeSonEklenen.html",
-    "Konu Sayısı": "33",
-    "Güncelleme Tarihi": "2020-12-07T08:00:00.000Z",
-    "Resim": "https://mfs79.github.io/A/iconAna/Bitti.png",
+    "No": "4",
+    "Konu": "Dergiler",
+    "Link": "https://mfs79.github.io/A/Dergiler.html",
+    "Konu Sayısı": "159",
+    "Güncelleme Tarihi": "2020-12-03T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Dergi.png",
     "Durumu": "Hazır"
   },
   {
-    "No": "6",
+    "No": "5",
     "Konu": "Dergi (Faziletli Ameller)",
     "Link": "https://mfs79.github.io/A/DergiAmeller.html",
     "Konu Sayısı": "330",
@@ -54,7 +45,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "7",
+    "No": "6",
     "Konu": "Dergi (Yazılar)",
     "Link": "https://mfs79.github.io/A/Makaleler.html",
     "Konu Sayısı": "1548",
@@ -63,8 +54,17 @@
     "Durumu": "Hazır"
   },
   {
+    "No": "7",
+    "Konu": "Listeye Son Eklenenler",
+    "Link": "https://mfs79.github.io/A/ListeSonEklenen.html",
+    "Konu Sayısı": "33",
+    "Güncelleme Tarihi": "2020-12-07T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Bitti.png",
+    "Durumu": "Hazır"
+  },
+  {
     "No": "8",
-    "Konu": "99 İsm-i Şerif ve Havası",
+    "Konu": "99 İsm-i Şerif Havas ve Esrarları",
     "Link": "https://mfs79.github.io/A/EsmaTekTekOzel.html",
     "Konu Sayısı": "36",
     "Güncelleme Tarihi": "2020-12-17T08:00:00.000Z",
