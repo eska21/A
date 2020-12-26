@@ -4564,9 +4564,9 @@
   },
   {
     "No": "508",
-    "Kitap Adı": "Kandehlevi'den Mektup - Muhammed Yusuf Kandehlevi'nin Davet ve Tebliğ ile İlgili Yazdığı Mektuplar",
+    "Kitap Adı": "Altı Sıfat ve Tebliğ Metodu Hakkında Kandehlevi'den Mektup",
     "Link": null,
-    "Sayfa Sayısı": "50",
+    "Sayfa Sayısı": "65",
     "Yazar": "(Hayri Demirci)",
     "Yayınevi": "Gülistan Neşriyat",
     "Durumu": "Taranmadı"
@@ -7980,6 +7980,69 @@
     "Sayfa Sayısı": "200",
     "Yazar": "(Dilaver Selvi)",
     "Yayınevi": "Semerkand Yayınevi",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "888",
+    "Kitap Adı": "Hanımefendi Tesettür Ederim",
+    "Link": null,
+    "Sayfa Sayısı": "160",
+    "Yazar": "(Burak Kızıldaş)",
+    "Yayınevi": "Muallim Neşriyat",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "889",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 1",
+    "Link": null,
+    "Sayfa Sayısı": "350",
+    "Yazar": "(Mevlüt Özcan)",
+    "Yayınevi": "Sabır Yayınları",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "890",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 2",
+    "Link": null,
+    "Sayfa Sayısı": "352",
+    "Yazar": "(Mevlüt Özcan)",
+    "Yayınevi": "Sabır Yayınları",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "891",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 3",
+    "Link": null,
+    "Sayfa Sayısı": "358",
+    "Yazar": "(Mevlüt Özcan)",
+    "Yayınevi": "Sabır Yayınları",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "892",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 4",
+    "Link": null,
+    "Sayfa Sayısı": "356",
+    "Yazar": "(Mevlüt Özcan)",
+    "Yayınevi": "Sabır Yayınları",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "893",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 5",
+    "Link": null,
+    "Sayfa Sayısı": "358",
+    "Yazar": "(Mevlüt Özcan)",
+    "Yayınevi": "Sabır Yayınları",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "894",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler",
+    "Link": null,
+    "Sayfa Sayısı": null,
+    "Yazar": "(Mevlüt Özcan)",
+    "Yayınevi": "Sabır Yayınları",
     "Durumu": "Taranmadı"
   }
 ]
