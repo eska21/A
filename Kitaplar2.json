@@ -1246,7 +1246,7 @@
     "Kitap Adı": "Allah Kulundan Vazgeçer mi",
     "Link": null,
     "Sayfa Sayısı": "96",
-    "Yazar": "(Bekir Nas)",
+    "Yazar": "(Eyüp Beyhan)",
     "Yayınevi": "Semerkand Yayınevi",
     "Durumu": "Taranmadı"
   },
@@ -2095,6 +2095,15 @@
     "Yazar": "(Bahri Tayran)",
     "Yayınevi": "Kahraman Yayınları",
     "Durumu": "Gelecek"
+  },
+  {
+    "No": "234",
+    "Kitap Adı": "Davet ve Tebliğin Faziletleri",
+    "Link": null,
+    "Sayfa Sayısı": "63",
+    "Yazar": "Hayri Demirci",
+    "Yayınevi": "Gülistan Neşriyat",
+    "Durumu": "Hazır"
   },
   {
     "No": "234",
@@ -3889,7 +3898,7 @@
   },
   {
     "No": "433",
-    "Kitap Adı": "Hikayelerle Namaz Sureleri ve Dua",
+    "Kitap Adı": "Hikayelerle Namaz Sureleri ve Duaları",
     "Link": null,
     "Sayfa Sayısı": "184",
     "Yazar": "(Veysel Akkaya)",
@@ -4447,7 +4456,7 @@
   },
   {
     "No": "495",
-    "Kitap Adı": "İmam Aliden Yöneticilere",
+    "Kitap Adı": "İlim Kapısı İmam Ali'den Yöneticilere",
     "Link": null,
     "Sayfa Sayısı": "80",
     "Yazar": "(Mükerrem Mete)",
@@ -4780,7 +4789,7 @@
   },
   {
     "No": "532",
-    "Kitap Adı": "Kelime-i Tevhidin Fazileti Cep Boy",
+    "Kitap Adı": "Kelime-i Tevhidin Fazileti",
     "Link": null,
     "Sayfa Sayısı": "128",
     "Yazar": "(Arif Pamuk)",
@@ -5284,7 +5293,7 @@
   },
   {
     "No": "588",
-    "Kitap Adı": "Mahşer Günü",
+    "Kitap Adı": "Mahşer Günü - İmam Muhasibi",
     "Link": null,
     "Sayfa Sayısı": "80",
     "Yazar": "(İmam Muhasibi)",
@@ -7183,7 +7192,7 @@
   },
   {
     "No": "799",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 1",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 1.Cild",
     "Link": null,
     "Sayfa Sayısı": "350",
     "Yazar": "(Mevlüt Özcan)",
@@ -7192,7 +7201,7 @@
   },
   {
     "No": "800",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 2",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 2.Cild",
     "Link": null,
     "Sayfa Sayısı": "352",
     "Yazar": "(Mevlüt Özcan)",
@@ -7201,7 +7210,7 @@
   },
   {
     "No": "801",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 3",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 3.Cild",
     "Link": null,
     "Sayfa Sayısı": "358",
     "Yazar": "(Mevlüt Özcan)",
@@ -7210,7 +7219,7 @@
   },
   {
     "No": "802",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 4",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 4.Cild",
     "Link": null,
     "Sayfa Sayısı": "356",
     "Yazar": "(Mevlüt Özcan)",
@@ -7219,7 +7228,7 @@
   },
   {
     "No": "803",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 5",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 5.Cild",
     "Link": null,
     "Sayfa Sayısı": "358",
     "Yazar": "(Mevlüt Özcan)",
@@ -7282,7 +7291,7 @@
   },
   {
     "No": "810",
-    "Kitap Adı": "Subhai Sıbyan Çocukların Tesbihi",
+    "Kitap Adı": "Subha-i Sıbyan - En Küçük Lügat Çocukların Tesbihi",
     "Link": null,
     "Sayfa Sayısı": "160",
     "Yazar": "(Talha Hakan Alp)",
@@ -7372,7 +7381,7 @@
   },
   {
     "No": "820",
-    "Kitap Adı": "Şefaat Ya Resulallah",
+    "Kitap Adı": "Şefaat Ya Resulallah - Delilleri ve Hikmetleriyle Şefaat",
     "Link": null,
     "Sayfa Sayısı": "80",
     "Yazar": "(Siraceddin Önlüer)",

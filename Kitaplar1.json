@@ -1086,7 +1086,7 @@
     "Sayfa Sayısı": "496",
     "Yazar": "(Mustafa Necati Bursalı)",
     "Yayınevi": "Çelik Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "122",
@@ -1244,11 +1244,11 @@
   {
     "No": "139",
     "Kitap Adı": "Allah Kulundan Vazgeçer mi",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1UTrHeIuj1NL_hpszKvbQZ6AhyX1amh2n/view?usp=sharing",
     "Sayfa Sayısı": "96",
-    "Yazar": "(Bekir Nas)",
+    "Yazar": "(Eyüp Beyhan)",
     "Yayınevi": "Semerkand Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "140",
@@ -1712,11 +1712,11 @@
   {
     "No": "191",
     "Kitap Adı": "Bismillah Deyip Girdik Denize",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1Wc1glViZWscs7nt-xiKHWj5QGirB6U4S/view?usp=sharing",
     "Sayfa Sayısı": "100",
     "Yazar": "(Muhammed Yusuf Kandehlevi)",
     "Yayınevi": "Semerkand Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "192",
@@ -1788,7 +1788,7 @@
     "Sayfa Sayısı": "412",
     "Yazar": "(Ali Arslan)",
     "Yayınevi": "Huzur Yayın Dağıtım",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "200",
@@ -1797,7 +1797,7 @@
     "Sayfa Sayısı": "412",
     "Yazar": "(Ali Arslan)",
     "Yayınevi": "Huzur Yayın Dağıtım",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "201",
@@ -1806,7 +1806,7 @@
     "Sayfa Sayısı": "412",
     "Yazar": "(Ali Arslan)",
     "Yayınevi": "Huzur Yayın Dağıtım",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "202",
@@ -1815,7 +1815,7 @@
     "Sayfa Sayısı": "412",
     "Yazar": "(Ali Arslan)",
     "Yayınevi": "Huzur Yayın Dağıtım",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "203",
@@ -1869,7 +1869,7 @@
     "Sayfa Sayısı": "584",
     "Yazar": "(Mehmet Talu)",
     "Yayınevi": "Sağlam Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "209",
@@ -1878,7 +1878,7 @@
     "Sayfa Sayısı": "584",
     "Yazar": "(Mehmet Talu)",
     "Yayınevi": "Sağlam Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "210",
@@ -1887,7 +1887,7 @@
     "Sayfa Sayısı": "584",
     "Yazar": "(Mehmet Talu)",
     "Yayınevi": "Sağlam Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "211",
@@ -2094,16 +2094,25 @@
     "Sayfa Sayısı": "208",
     "Yazar": "(Bahri Tayran)",
     "Yayınevi": "Kahraman Yayınları",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "234",
+    "Kitap Adı": "Davet ve Tebliğin Faziletleri",
+    "Link": "https://drive.google.com/file/d/1PGzHSReFiCe-Oo_lgb_-GER54hmqB6ck/view?usp=sharing",
+    "Sayfa Sayısı": "63",
+    "Yazar": "Hayri Demirci",
+    "Yayınevi": "Gülistan Neşriyat",
+    "Durumu": "Hazır"
   },
   {
     "No": "234",
     "Kitap Adı": "Davetçinin Yol Azığı",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/14DUlz-MjCW0AkvXUqoAaUw5J9FgkV5dL/view?usp=sharing",
     "Sayfa Sayısı": "130",
     "Yazar": "(Mustafa İslam)",
     "Yayınevi": "Gülistan Neşriyat",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "235",
@@ -2364,7 +2373,7 @@
     "Sayfa Sayısı": "320",
     "Yazar": "(Süleyman Kuku)",
     "Yayınevi": "Çeşme Kitap",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "264",
@@ -2814,7 +2823,7 @@
     "Sayfa Sayısı": "104",
     "Yazar": "(Hüseyin Okur)",
     "Yayınevi": "Semerkand Yayınları",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "314",
@@ -3057,7 +3066,7 @@
     "Sayfa Sayısı": "172",
     "Yazar": "(Ömer Nasuhi Bilmen)",
     "Yayınevi": "Semerkand Yayınları",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "341",
@@ -3399,7 +3408,7 @@
     "Sayfa Sayısı": "160",
     "Yazar": "(Ali Eren)",
     "Yayınevi": "Kitap Kalbi Yayıncılık",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "379",
@@ -3791,11 +3800,11 @@
   {
     "No": "422",
     "Kitap Adı": "Hicri Aylar 09 - Ramazan",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1OLPiL8njYhZ36zrEMCy5SPBxEK3l6BbE/view?usp=sharing",
     "Sayfa Sayısı": "128",
     "Yazar": "(Siraceddin Önlüer)",
     "Yayınevi": "Semerkand Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "423",
@@ -3889,12 +3898,12 @@
   },
   {
     "No": "433",
-    "Kitap Adı": "Hikayelerle Namaz Sureleri ve Dua",
-    "Link": null,
+    "Kitap Adı": "Hikayelerle Namaz Sureleri ve Duaları",
+    "Link": "https://drive.google.com/file/d/1VqNNWNHkXz6BDmPUPdX9UUZTQogH2wOp/view?usp=sharing",
     "Sayfa Sayısı": "184",
     "Yazar": "(Veysel Akkaya)",
     "Yayınevi": "Erkam Yayınları",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "434",
@@ -4047,7 +4056,7 @@
     "Sayfa Sayısı": "184",
     "Yazar": "(Mustafa Necati Bursalı)",
     "Yayınevi": "Çelik Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "451",
@@ -4074,7 +4083,7 @@
     "Sayfa Sayısı": "224",
     "Yazar": "(Mustafa Necati Bursalı)",
     "Yayınevi": "Çelik Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "454",
@@ -4083,7 +4092,7 @@
     "Sayfa Sayısı": "184",
     "Yazar": "(Mustafa Necati Bursalı)",
     "Yayınevi": "Çelik Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "455",
@@ -4447,12 +4456,12 @@
   },
   {
     "No": "495",
-    "Kitap Adı": "İmam Aliden Yöneticilere",
-    "Link": null,
+    "Kitap Adı": "İlim Kapısı İmam Ali'den Yöneticilere",
+    "Link": "https://drive.google.com/file/d/1zBh1ybV-YpI5mPBTwnziBctjeQukkGcA/view?usp=sharing",
     "Sayfa Sayısı": "80",
     "Yazar": "(Mükerrem Mete)",
     "Yayınevi": "Semerkand Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "496",
@@ -4628,11 +4637,11 @@
   {
     "No": "515",
     "Kitap Adı": "İyilik Çeşitleri",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1a59ul9Ciyb2HXLg5KJ30BRQ5KTIQM4t5/view?usp=sharing",
     "Sayfa Sayısı": "68",
     "Yazar": "(Ali Başkar)",
     "Yayınevi": "Hacegan Yayınları",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "516",
@@ -4780,12 +4789,12 @@
   },
   {
     "No": "532",
-    "Kitap Adı": "Kelime-i Tevhidin Fazileti Cep Boy",
-    "Link": null,
+    "Kitap Adı": "Kelime-i Tevhidin Fazileti",
+    "Link": "https://drive.google.com/file/d/1k00QNstZ9ixyZivq-gu_zMqfGE5uwAM-/view?usp=sharing",
     "Sayfa Sayısı": "128",
     "Yazar": "(Arif Pamuk)",
     "Yayınevi": "Pamuk Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "533",
@@ -5284,12 +5293,12 @@
   },
   {
     "No": "588",
-    "Kitap Adı": "Mahşer Günü",
-    "Link": null,
+    "Kitap Adı": "Mahşer Günü - İmam Muhasibi",
+    "Link": "https://drive.google.com/file/d/1BSbhPFqQ5umapSmL3YnrMWTRqhPfDjCy/view?usp=sharing",
     "Sayfa Sayısı": "80",
     "Yazar": "(İmam Muhasibi)",
     "Yayınevi": "Semerkand Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "589",
@@ -5492,11 +5501,11 @@
   {
     "No": "611",
     "Kitap Adı": "Melfuzat - Mevlana Muhammed İlyas Kandehlevi'nin Davet ve Tebliğ ile İlgili Nasihatleri",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/10ESJMx0wCPVX2wDBVTW_kiVevmmjdCxM/view?usp=sharing",
     "Sayfa Sayısı": "230",
     "Yazar": "(Hayri Demirci)",
     "Yayınevi": "Gülistan Neşriyat",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "612",
@@ -6270,7 +6279,7 @@
     "Sayfa Sayısı": "96",
     "Yazar": "(Selim Uğur)",
     "Yayınevi": "Semerkand Yayınları",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "698",
@@ -6792,7 +6801,7 @@
     "Sayfa Sayısı": "408",
     "Yazar": "(Yücel Erdoğmuş)",
     "Yayınevi": "Mercan Kitap",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "756",
@@ -6819,7 +6828,7 @@
     "Sayfa Sayısı": "440",
     "Yazar": "(Mustafa Necati Bursalı)",
     "Yayınevi": "Çelik Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "759",
@@ -7183,25 +7192,25 @@
   },
   {
     "No": "799",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 1",
-    "Link": null,
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 1.Cild",
+    "Link": "https://drive.google.com/file/d/1EULetY852jCkaMXlp2kf8AVpTdFUGxHU/view?usp=sharing",
     "Sayfa Sayısı": "350",
     "Yazar": "(Mevlüt Özcan)",
     "Yayınevi": "Sabır Yayınları",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "800",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 2",
-    "Link": null,
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 2.Cild",
+    "Link": "https://drive.google.com/file/d/1_89lQQum3_-B0_444xLsiv_AzpQuaRTZ/view?usp=sharing",
     "Sayfa Sayısı": "352",
     "Yazar": "(Mevlüt Özcan)",
     "Yayınevi": "Sabır Yayınları",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "801",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 3",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 3.Cild",
     "Link": null,
     "Sayfa Sayısı": "358",
     "Yazar": "(Mevlüt Özcan)",
@@ -7210,7 +7219,7 @@
   },
   {
     "No": "802",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 4",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 4.Cild",
     "Link": null,
     "Sayfa Sayısı": "356",
     "Yazar": "(Mevlüt Özcan)",
@@ -7219,7 +7228,7 @@
   },
   {
     "No": "803",
-    "Kitap Adı": "Sorumsuzca Söylenen Sözler 5",
+    "Kitap Adı": "Sorumsuzca Söylenen Sözler 5.Cild",
     "Link": null,
     "Sayfa Sayısı": "358",
     "Yazar": "(Mevlüt Özcan)",
@@ -7282,12 +7291,12 @@
   },
   {
     "No": "810",
-    "Kitap Adı": "Subhai Sıbyan Çocukların Tesbihi",
-    "Link": null,
+    "Kitap Adı": "Subha-i Sıbyan - En Küçük Lügat Çocukların Tesbihi",
+    "Link": "https://drive.google.com/file/d/1acwADaIbXj29QtNk_2h3kLpHa74fnVeA/view?usp=sharing",
     "Sayfa Sayısı": "160",
     "Yazar": "(Talha Hakan Alp)",
     "Yayınevi": "Yasin Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "811",
@@ -7372,12 +7381,12 @@
   },
   {
     "No": "820",
-    "Kitap Adı": "Şefaat Ya Resulallah",
-    "Link": null,
+    "Kitap Adı": "Şefaat Ya Resulallah - Delilleri ve Hikmetleriyle Şefaat",
+    "Link": "https://drive.google.com/file/d/1VcWlnKkmcIZHnfb4MU3tZC8G_kIAQGMf/view?usp=sharing",
     "Sayfa Sayısı": "80",
     "Yazar": "(Siraceddin Önlüer)",
     "Yayınevi": "Semerkand Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "821",
@@ -7404,7 +7413,7 @@
     "Sayfa Sayısı": "144",
     "Yazar": "(İsmailağa Telif Heyeti)",
     "Yayınevi": "İsmailağa Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "824",
@@ -7773,7 +7782,7 @@
     "Sayfa Sayısı": "224",
     "Yazar": "(Ömer Faruk Korkmaz)",
     "Yayınevi": "Rabbani Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "865",
@@ -7908,7 +7917,7 @@
     "Sayfa Sayısı": "272",
     "Yazar": "(Mehmed Zahid Kotku)",
     "Yayınevi": "Server Yayınları",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "880",
@@ -8142,7 +8151,7 @@
     "Sayfa Sayısı": "240",
     "Yazar": "(Ali Eren)",
     "Yayınevi": "Kitap Kalbi Yayıncılık",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "906",
@@ -8169,7 +8178,7 @@
     "Sayfa Sayısı": "440",
     "Yazar": "(Mustafa Necati Bursalı)",
     "Yayınevi": "Çelik Yayınevi",
-    "Durumu": "Gelecek"
+    "Durumu": "Taranmadı"
   },
   {
     "No": "909",
@@ -8192,11 +8201,11 @@
   {
     "No": "911",
     "Kitap Adı": "Zemzem Tarihi ve Faziletleri",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1JrgkKHKm697GrQSpPoAZhzu4ZgsgeKks/view?usp=sharing",
     "Sayfa Sayısı": "88",
     "Yazar": "(Abdurrahman Altundağ)",
     "Yayınevi": "Semerkand Yayınevi",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "912",
@@ -8228,11 +8237,11 @@
   {
     "No": "915",
     "Kitap Adı": "Zilletin Tek İlacı",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1TPNoHuCCp3qx_81HAyABCk1mau3kt9zj/view?usp=sharing",
     "Sayfa Sayısı": "64",
     "Yazar": "(Hayri Demirci)",
     "Yayınevi": "Gülistan Neşriyat",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "916",
