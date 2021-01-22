@@ -58982,5 +58982,2581 @@
     "Sayfa No": "290",
     "Kitap Adı": "(Şifa-i Şerif 2.Cild)",
     "Yazar": "(Ali Kara)"
+  },
+  {
+    "No": "7374",
+    "Konu": "Aile",
+    "Link": null,
+    "Sayfa No": "5",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7375",
+    "Konu": "Evlilik",
+    "Link": null,
+    "Sayfa No": "11",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7376",
+    "Konu": "Dinimizde Evliliğin Yeri ve Önemi",
+    "Link": null,
+    "Sayfa No": "11",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7377",
+    "Konu": "Eş Seçiminde Dikkate Alınması Gereken Şeyler",
+    "Link": null,
+    "Sayfa No": "14",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7378",
+    "Konu": "Evlenilecek Kadında Bulunması Müstehap Olan Vasıflar",
+    "Link": null,
+    "Sayfa No": "14",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7379",
+    "Konu": "İslam'da Nişan (Hıtbe)",
+    "Link": null,
+    "Sayfa No": "18",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7380",
+    "Konu": "Kişinin Nişanlısıyla Baş Başa Kalması",
+    "Link": null,
+    "Sayfa No": "19",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7381",
+    "Konu": "Nişan Atmak ve Sonuçları",
+    "Link": null,
+    "Sayfa No": "20",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7382",
+    "Konu": "Nişanlılık Döneminde Verilmiş Olan Mehrin Durumu",
+    "Link": null,
+    "Sayfa No": "21",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7383",
+    "Konu": "Nişanlılık Döneminde Verilmiş Olan Hediyelerin Durumu",
+    "Link": null,
+    "Sayfa No": "21",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7384",
+    "Konu": "Nişan Atılması Durumunda Zarar Tazmini",
+    "Link": null,
+    "Sayfa No": "22",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7385",
+    "Konu": "Nikah Kıyarken Yapılan Dua",
+    "Link": null,
+    "Sayfa No": "23",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7386",
+    "Konu": "Evlenen Çiftin Nikahtan Sonra Tebrik Edilmesi",
+    "Link": null,
+    "Sayfa No": "25",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7387",
+    "Konu": "Düğün Yemeği",
+    "Link": null,
+    "Sayfa No": "26",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7388",
+    "Konu": "Gerdeğe Girecek Olanın Dua Etmesi",
+    "Link": null,
+    "Sayfa No": "28",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7389",
+    "Konu": "Nikah Akdi",
+    "Link": null,
+    "Sayfa No": "28",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7390",
+    "Konu": "Nikahın İbadet ve Muamele Yönü",
+    "Link": null,
+    "Sayfa No": "29",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7391",
+    "Konu": "Evlenmenin Vacip veya Mekruh Yahut Haram Olduğu Durumlar",
+    "Link": null,
+    "Sayfa No": "32",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7392",
+    "Konu": "Nikahın Rüknü",
+    "Link": null,
+    "Sayfa No": "33",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7393",
+    "Konu": "İcap ve Kabulün Şartları",
+    "Link": null,
+    "Sayfa No": "33",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7394",
+    "Konu": "Bir Kişinin, Nikahın İki Taraf Adına İşlem Yapması",
+    "Link": null,
+    "Sayfa No": "35",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7395",
+    "Konu": "Nikahın Şartları",
+    "Link": null,
+    "Sayfa No": "35",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7396",
+    "Konu": "İnikat Şartları",
+    "Link": null,
+    "Sayfa No": "36",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7397",
+    "Konu": "Taraflara Ait Şartlar",
+    "Link": null,
+    "Sayfa No": "36",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7398",
+    "Konu": "Akit Meclisine Ait Şartlar",
+    "Link": null,
+    "Sayfa No": "37",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7399",
+    "Konu": "İcap ve Kabulün Birbirine Uygun Olması",
+    "Link": null,
+    "Sayfa No": "37",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7400",
+    "Konu": "İcap ve Kabulün Taraflarca Duyulması",
+    "Link": null,
+    "Sayfa No": "37",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7401",
+    "Konu": "Nikahın Sahih Olmasının Şartları",
+    "Link": null,
+    "Sayfa No": "38",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7402",
+    "Konu": "Nikahın Geçerlilik Şartları",
+    "Link": null,
+    "Sayfa No": "41",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7403",
+    "Konu": "Akdin Lüzum - Devamlılık Şartları",
+    "Link": null,
+    "Sayfa No": "43",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7404",
+    "Konu": "Evlilikte Denklik",
+    "Link": null,
+    "Sayfa No": "44",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7405",
+    "Konu": "Muvakkat (Süreli) Nikah",
+    "Link": null,
+    "Sayfa No": "45",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7406",
+    "Konu": "Mut'a Nikahı",
+    "Link": null,
+    "Sayfa No": "46",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7407",
+    "Konu": "Tehdit Altında Nikah",
+    "Link": null,
+    "Sayfa No": "47",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7408",
+    "Konu": "Kız Kaçırmak",
+    "Link": null,
+    "Sayfa No": "48",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7409",
+    "Konu": "Şakayla Kıyılan Nikah",
+    "Link": null,
+    "Sayfa No": "48",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7410",
+    "Konu": "Şarta Bağlanan Nikah",
+    "Link": null,
+    "Sayfa No": "48",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7411",
+    "Konu": "Kadına Boşama Hakkı Verilmesi",
+    "Link": null,
+    "Sayfa No": "50",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7412",
+    "Konu": "Kadına Verilen Boşama Hakkının Erkeğin Boşama Yetkisine Tesiri",
+    "Link": null,
+    "Sayfa No": "50",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7413",
+    "Konu": "Evlendirmeye Dair Vekil Tayin Etme",
+    "Link": null,
+    "Sayfa No": "51",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7414",
+    "Konu": "Nikahta Velayet",
+    "Link": null,
+    "Sayfa No": "52",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7415",
+    "Konu": "Velayeti Meşru Kılan Sebep",
+    "Link": null,
+    "Sayfa No": "52",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7416",
+    "Konu": "Velayetin Kısımları",
+    "Link": null,
+    "Sayfa No": "52",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7417",
+    "Konu": "Nefse Velayet",
+    "Link": null,
+    "Sayfa No": "52",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7418",
+    "Konu": "Velide Bulunması Gereken Şartlar",
+    "Link": null,
+    "Sayfa No": "53",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7419",
+    "Konu": "Veliler Arasında Öncelik Sıralaması",
+    "Link": null,
+    "Sayfa No": "54",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7420",
+    "Konu": "Evlenilmesi Haram Olan Kadınlar",
+    "Link": null,
+    "Sayfa No": "56",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7421",
+    "Konu": "Nesep Yoluyla Haram Olan Kadınlar",
+    "Link": null,
+    "Sayfa No": "58",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7422",
+    "Konu": "Kan Hısımlığı Sebebiyle Evlenilmesi Haram Olan Kadın Akrabalar",
+    "Link": null,
+    "Sayfa No": "58",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7423",
+    "Konu": "Evlenme Sebebiyle Oluşan Hısımlık",
+    "Link": null,
+    "Sayfa No": "59",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7424",
+    "Konu": "Kişinin Zina Ettiği Kadının Ana veya Kızlarıyla Evlenmesi",
+    "Link": null,
+    "Sayfa No": "62",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7425",
+    "Konu": "Süt Hısımlığı Sebebiyle Evlenilmesi Caiz Olmayan Kadınlar",
+    "Link": null,
+    "Sayfa No": "63",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7426",
+    "Konu": "Süt Emme Sebebiyle Evlenilmesi Yasak Olan Erkekler",
+    "Link": null,
+    "Sayfa No": "64",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7427",
+    "Konu": "Geçici Evlenme Engelleri",
+    "Link": null,
+    "Sayfa No": "65",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7428",
+    "Konu": "Süt Hısımlığı",
+    "Link": null,
+    "Sayfa No": "71",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7429",
+    "Konu": "Süt Emmeye Dair Bazı Meseleler",
+    "Link": null,
+    "Sayfa No": "72",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7430",
+    "Konu": "Kiralanan Sütanneye Dair Bazı Meseleler",
+    "Link": null,
+    "Sayfa No": "74",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7431",
+    "Konu": "Evlenme Engeli Olan Süt Hısımlığının Sebebi",
+    "Link": null,
+    "Sayfa No": "76",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7432",
+    "Konu": "Süt Emmenin Evlenme Engeli Olmasını Gerektiren Şartlar",
+    "Link": null,
+    "Sayfa No": "78",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7433",
+    "Konu": "Sütanneyle İlgili Şartlar",
+    "Link": null,
+    "Sayfa No": "78",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7434",
+    "Konu": "Sütle İlgili Şartlar",
+    "Link": null,
+    "Sayfa No": "78",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7435",
+    "Konu": "Çocukla İlgili Şartlar",
+    "Link": null,
+    "Sayfa No": "79",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7436",
+    "Konu": "Süt Hısımlığının İspat Edilmesi",
+    "Link": null,
+    "Sayfa No": "80",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7437",
+    "Konu": "Süt Hısımlığının İspat Edilmesi İçin Gerekli Olan Şahit Sayısı",
+    "Link": null,
+    "Sayfa No": "82",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7438",
+    "Konu": "Mehir",
+    "Link": null,
+    "Sayfa No": "83",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7439",
+    "Konu": "Mehrin Çeşitleri",
+    "Link": null,
+    "Sayfa No": "86",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7440",
+    "Konu": "Mehr-i Müsemma",
+    "Link": null,
+    "Sayfa No": "86",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7441",
+    "Konu": "Mehir Olabilecek Şeyler",
+    "Link": null,
+    "Sayfa No": "87",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7442",
+    "Konu": "Mehr-i Misil",
+    "Link": null,
+    "Sayfa No": "88",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7443",
+    "Konu": "Mehr-i Misil Verilmesi Gereken Haller",
+    "Link": null,
+    "Sayfa No": "89",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7444",
+    "Konu": "Mehr-i Mislin Belirlenmesi",
+    "Link": null,
+    "Sayfa No": "89",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7445",
+    "Konu": "Mehr-i Misli Gerekli Kılan Üç Durum",
+    "Link": null,
+    "Sayfa No": "90",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7446",
+    "Konu": "Mehr-i Misil Gerekmeyen Durumlarda Kadının Hakkı Olan Mut'a",
+    "Link": null,
+    "Sayfa No": "91",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7447",
+    "Konu": "Koşullu Mehir",
+    "Link": null,
+    "Sayfa No": "91",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7448",
+    "Konu": "Evlilikten Doğan Karşılıklı Hak ve Vazifeler",
+    "Link": null,
+    "Sayfa No": "92",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7449",
+    "Konu": "Kadının Hakları",
+    "Link": null,
+    "Sayfa No": "92",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7450",
+    "Konu": "Kocanın Hakları",
+    "Link": null,
+    "Sayfa No": "95",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7451",
+    "Konu": "Kocanın Hanımına Karşı Vazifeleri",
+    "Link": null,
+    "Sayfa No": "99",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7452",
+    "Konu": "Kadının Kocasına Karşı Vazifeleri",
+    "Link": null,
+    "Sayfa No": "100",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7453",
+    "Konu": "Müşterek Haklar",
+    "Link": null,
+    "Sayfa No": "103",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7454",
+    "Konu": "Zifaf Gecesine Dair Bir Takım Edepler",
+    "Link": null,
+    "Sayfa No": "107",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7455",
+    "Konu": "Gusletmeden Hanımıyla 2. Kez İlişkiye Girmek",
+    "Link": null,
+    "Sayfa No": "113",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7456",
+    "Konu": "Eşlerin Birlikte Yıkanmaları",
+    "Link": null,
+    "Sayfa No": "113",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7457",
+    "Konu": "Cünübün Uyumadan Önce Abdest Alması",
+    "Link": null,
+    "Sayfa No": "114",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7458",
+    "Konu": "Haram Olan Cinsel İlişkiler",
+    "Link": null,
+    "Sayfa No": "115",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7459",
+    "Konu": "Arka Yoldan İlişki Kurmak",
+    "Link": null,
+    "Sayfa No": "115",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7460",
+    "Konu": "Kocanın Adet Görmekte Olan Hanımına Yaklaşması Haramdır",
+    "Link": null,
+    "Sayfa No": "117",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7461",
+    "Konu": "Hayvanlara Cinsel Temasta Bulunmak",
+    "Link": null,
+    "Sayfa No": "118",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7462",
+    "Konu": "Başkalarının Cinsel Organlarını ve Cinsel İlişkilerini Gizlice Gözetleme",
+    "Link": null,
+    "Sayfa No": "119",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7463",
+    "Konu": "Teşhircilik (Başkalarını Tahrik Etme Gayesiyle, Açılıp Saçılmak)",
+    "Link": null,
+    "Sayfa No": "120",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7464",
+    "Konu": "Mastürbasyon",
+    "Link": null,
+    "Sayfa No": "121",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7465",
+    "Konu": "Tüp Bebek ve Suni Aşılama",
+    "Link": null,
+    "Sayfa No": "123",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7466",
+    "Konu": "Suni Aşılama",
+    "Link": null,
+    "Sayfa No": "123",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7467",
+    "Konu": "Tüp Bebek",
+    "Link": null,
+    "Sayfa No": "124",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7468",
+    "Konu": "Aşılama ve Tüp Bebek Uygulamalarının Hükümleri",
+    "Link": null,
+    "Sayfa No": "125",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7469",
+    "Konu": "Bu Uygulamalara Dair Umumi Hükümler",
+    "Link": null,
+    "Sayfa No": "125",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7470",
+    "Konu": "Bu Uygulamalara Dair Hususi Hükümler",
+    "Link": null,
+    "Sayfa No": "126",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7471",
+    "Konu": "Embriyo Dondurmak",
+    "Link": null,
+    "Sayfa No": "127",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7472",
+    "Konu": "Taşıyıcı Anne",
+    "Link": null,
+    "Sayfa No": "128",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7473",
+    "Konu": "Nesep",
+    "Link": null,
+    "Sayfa No": "129",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7474",
+    "Konu": "Firaş Mertebeleri ve Nesep",
+    "Link": null,
+    "Sayfa No": "130",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7475",
+    "Konu": "Sabit Nesepler",
+    "Link": null,
+    "Sayfa No": "131",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7476",
+    "Konu": "Sabit Olmayan Nesepler",
+    "Link": null,
+    "Sayfa No": "132",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7477",
+    "Konu": "Kocasını Ölmüş Zannederek Evlenen Kadının Çocuğu",
+    "Link": null,
+    "Sayfa No": "134",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7478",
+    "Konu": "Evlatlık Çocuklar",
+    "Link": null,
+    "Sayfa No": "135",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7479",
+    "Konu": "Zinadan Doğan Çocuğun Nesebi",
+    "Link": null,
+    "Sayfa No": "136",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7480",
+    "Konu": "Nesep Davaları",
+    "Link": null,
+    "Sayfa No": "137",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7481",
+    "Konu": "Nüfus Planlaması",
+    "Link": null,
+    "Sayfa No": "139",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7482",
+    "Konu": "Korunma",
+    "Link": null,
+    "Sayfa No": "140",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7483",
+    "Konu": "Kürtaj",
+    "Link": null,
+    "Sayfa No": "141",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7484",
+    "Konu": "Gurre ve Kürtaj Kefareti",
+    "Link": null,
+    "Sayfa No": "151",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7485",
+    "Konu": "Talak (Boşanma)",
+    "Link": null,
+    "Sayfa No": "152",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7486",
+    "Konu": "Boşamanın Hükmü",
+    "Link": null,
+    "Sayfa No": "153",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7487",
+    "Konu": "Boşanmayı Kaçınılmaz Kılan Durumlar",
+    "Link": null,
+    "Sayfa No": "155",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7488",
+    "Konu": "Boşama Erkeğe Tanınmış Bir Haktır",
+    "Link": null,
+    "Sayfa No": "158",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7489",
+    "Konu": "Ric'i ve Bain Talak",
+    "Link": null,
+    "Sayfa No": "160",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7490",
+    "Konu": "Boşamada Asıl Olan Sözdür",
+    "Link": null,
+    "Sayfa No": "160",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7491",
+    "Konu": "Sünnete Uygun Olma veya Olmama Bakımından Boşama Çeşitleri",
+    "Link": null,
+    "Sayfa No": "161",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7492",
+    "Konu": "Sünni Talak",
+    "Link": null,
+    "Sayfa No": "161",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7493",
+    "Konu": "Bid'i Talak",
+    "Link": null,
+    "Sayfa No": "163",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7494",
+    "Konu": "Kullanılan Lafızların Özellikleri Açısından Boşama",
+    "Link": null,
+    "Sayfa No": "165",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7495",
+    "Konu": "Sarih Lafızlar",
+    "Link": null,
+    "Sayfa No": "165",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7496",
+    "Konu": "Kinaye Lafızlar ve Kısımları",
+    "Link": null,
+    "Sayfa No": "167",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7497",
+    "Konu": "Kinaye Lafızların Kullanım Farklılıkları",
+    "Link": null,
+    "Sayfa No": "169",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7498",
+    "Konu": "Bain Talak Sayılan Sarih Lafızlar",
+    "Link": null,
+    "Sayfa No": "171",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7499",
+    "Konu": "Cinsel İlişkiye Girmiş Olduğu Kadını Boşamak",
+    "Link": null,
+    "Sayfa No": "172",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7500",
+    "Konu": "Ric'i Talak ile Bain Talak Arasındaki Farklar",
+    "Link": null,
+    "Sayfa No": "173",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7501",
+    "Konu": "Ric'i Talaktan Dönüş",
+    "Link": null,
+    "Sayfa No": "174",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7502",
+    "Konu": "Boşama Ehliyeti",
+    "Link": null,
+    "Sayfa No": "174",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7503",
+    "Konu": "Tehdit Altında Boşama",
+    "Link": null,
+    "Sayfa No": "175",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7504",
+    "Konu": "Sarhoşun Boşaması",
+    "Link": null,
+    "Sayfa No": "176",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7505",
+    "Konu": "Çocuk ve Delinin Boşaması",
+    "Link": null,
+    "Sayfa No": "178",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7506",
+    "Konu": "Sinir Krizi Geçirenin Boşaması",
+    "Link": null,
+    "Sayfa No": "179",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7507",
+    "Konu": "Şakayla Boşamak",
+    "Link": null,
+    "Sayfa No": "179",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7508",
+    "Konu": "Hatayla Boşamak",
+    "Link": null,
+    "Sayfa No": "179",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7509",
+    "Konu": "Adet Görmeyen Kadınların Boşanması",
+    "Link": null,
+    "Sayfa No": "180",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7510",
+    "Konu": "İddette Olan Kadını Boşamak",
+    "Link": null,
+    "Sayfa No": "181",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7511",
+    "Konu": "Fesih ile Talak Arasındaki Farklar",
+    "Link": null,
+    "Sayfa No": "182",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7512",
+    "Konu": "Nikahın Feshedilme Sebepleri",
+    "Link": null,
+    "Sayfa No": "183",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7513",
+    "Konu": "Boşamayı Gerektiren Farklı Lafızlar ve Değişik Boşama Türleri",
+    "Link": null,
+    "Sayfa No": "184",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7514",
+    "Konu": "Dilsizin Hanımını Boşaması",
+    "Link": null,
+    "Sayfa No": "186",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7515",
+    "Konu": "Mesaj veya Mektupla Boşamak",
+    "Link": null,
+    "Sayfa No": "187",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7516",
+    "Konu": "Kadına Boşama Yetkisi Vermek",
+    "Link": null,
+    "Sayfa No": "188",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7517",
+    "Konu": "Boşamayı Şarta Bağlamak",
+    "Link": null,
+    "Sayfa No": "194",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7518",
+    "Konu": "Şartın Gerçekleşmiş Olup Olmadığına Dair Eşlerin İhtilafı",
+    "Link": null,
+    "Sayfa No": "197",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7519",
+    "Konu": "Boşamanın Akabinde \"İnşaallah\" Sözüyle İstisnada Bulunmak",
+    "Link": null,
+    "Sayfa No": "198",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7520",
+    "Konu": "Ölüm Döşeğindeki Kişinin Hanımını Boşaması",
+    "Link": null,
+    "Sayfa No": "198",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7521",
+    "Konu": "Ric'i Talaktan Dönüş",
+    "Link": null,
+    "Sayfa No": "200",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7522",
+    "Konu": "Bir Anda Verilen Üç Talak",
+    "Link": null,
+    "Sayfa No": "203",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7523",
+    "Konu": "Üç Talak Verilen Kadının Eski Kocasına Dönebilmesinin Şartları",
+    "Link": null,
+    "Sayfa No": "204",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7524",
+    "Konu": "Hülle",
+    "Link": null,
+    "Sayfa No": "206",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7525",
+    "Konu": "Nikahın Feshi",
+    "Link": null,
+    "Sayfa No": "207",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7526",
+    "Konu": "İddet",
+    "Link": null,
+    "Sayfa No": "208",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7527",
+    "Konu": "İddet Döneminde Kadın",
+    "Link": null,
+    "Sayfa No": "212",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7528",
+    "Konu": "İddet Bekleyen Kadının Dışarı Çıkması",
+    "Link": null,
+    "Sayfa No": "215",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7529",
+    "Konu": "Hul'",
+    "Link": null,
+    "Sayfa No": "217",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7530",
+    "Konu": "Kadının Para Verip Kendini Boşattırması",
+    "Link": null,
+    "Sayfa No": "217",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7531",
+    "Konu": "Hul' Yapmak İçin Kullanılan Lafızlar",
+    "Link": null,
+    "Sayfa No": "219",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7532",
+    "Konu": "Hul'dan Dönüş",
+    "Link": null,
+    "Sayfa No": "220",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7533",
+    "Konu": "İla - Kadına Yaklaşmamaya Dair Yemin Etmek",
+    "Link": null,
+    "Sayfa No": "222",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7534",
+    "Konu": "İla'nın Gerçekleşmesi İçin Aranan Şartlar",
+    "Link": null,
+    "Sayfa No": "225",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7535",
+    "Konu": "İla Çeşitleri",
+    "Link": null,
+    "Sayfa No": "226",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7536",
+    "Konu": "İla'nın Hükmü",
+    "Link": null,
+    "Sayfa No": "228",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7537",
+    "Konu": "İla Kefareti",
+    "Link": null,
+    "Sayfa No": "228",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7538",
+    "Konu": "Zıhar",
+    "Link": null,
+    "Sayfa No": "233",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7539",
+    "Konu": "Nikahlısını, Mahremine Benzetmek Yoluyla Haram Kılmak",
+    "Link": null,
+    "Sayfa No": "233",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7540",
+    "Konu": "Zıharın Gerçekleşmesi İçin Aranan Şartlar",
+    "Link": null,
+    "Sayfa No": "235",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7541",
+    "Konu": "Zıhar Kefareti",
+    "Link": null,
+    "Sayfa No": "239",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7542",
+    "Konu": "Li'an",
+    "Link": null,
+    "Sayfa No": "241",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7543",
+    "Konu": "Li'an İçin Gerekli Şartlar",
+    "Link": null,
+    "Sayfa No": "246",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7544",
+    "Konu": "Nafaka",
+    "Link": null,
+    "Sayfa No": "249",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7545",
+    "Konu": "Evlilikten Doğan Nafaka",
+    "Link": null,
+    "Sayfa No": "249",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7546",
+    "Konu": "Nafaka Miktarının Tespiti",
+    "Link": null,
+    "Sayfa No": "252",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7547",
+    "Konu": "Kadının Nafakaya Müstahak Olması İçin Aranan Şartlar",
+    "Link": null,
+    "Sayfa No": "254",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7548",
+    "Konu": "İddet Döneminde Nafaka",
+    "Link": null,
+    "Sayfa No": "259",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7549",
+    "Konu": "Nafaka Miktarında Anlaşmak",
+    "Link": null,
+    "Sayfa No": "261",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7550",
+    "Konu": "Nafaka Sorumluluğunu Yerine Getirmeyen Koca",
+    "Link": null,
+    "Sayfa No": "262",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7551",
+    "Konu": "Nafakası Karşılanmayan Kadının Ayrılmak İstemesi",
+    "Link": null,
+    "Sayfa No": "262",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7552",
+    "Konu": "Çocukların Nafakası",
+    "Link": null,
+    "Sayfa No": "264",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7553",
+    "Konu": "Babanın, Çocuğun Malından Almak Üzere Harcamada Bulunması",
+    "Link": null,
+    "Sayfa No": "266",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7554",
+    "Konu": "Dadılık Ücreti",
+    "Link": null,
+    "Sayfa No": "266",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7555",
+    "Konu": "Gelinin Nafakası",
+    "Link": null,
+    "Sayfa No": "267",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7556",
+    "Konu": "Nafaka Vermekle Yükümlü Kişiler",
+    "Link": null,
+    "Sayfa No": "267",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7557",
+    "Konu": "Anne-Baba ve Dedelerin Nafakası",
+    "Link": null,
+    "Sayfa No": "268",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7558",
+    "Konu": "Üst ve Alt Soylardan Başka Yakınların Nafakaları",
+    "Link": null,
+    "Sayfa No": "271",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7559",
+    "Konu": "Evcil Hayvanların Bakımı",
+    "Link": null,
+    "Sayfa No": "273",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7560",
+    "Konu": "Hıdane (Çocuga Bakma ve Terbiye Etme Hakkı)",
+    "Link": null,
+    "Sayfa No": "276",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7561",
+    "Konu": "Velayeti Üstlenen Tarafın Çocuğu Diğer Tarafa Göstermemesi",
+    "Link": null,
+    "Sayfa No": "280",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7562",
+    "Konu": "Çocuğun Velayet Tercihi",
+    "Link": null,
+    "Sayfa No": "280",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7563",
+    "Konu": "Çocukların Tek Başına Ayrı Eve Çıkmaları",
+    "Link": null,
+    "Sayfa No": "281",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7564",
+    "Konu": "Gayrimüslim veya Fasık Annenin Çocuğu Üzerindeki Velayeti",
+    "Link": null,
+    "Sayfa No": "281",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7565",
+    "Konu": "Annenin Çocuğunu Emzirmemesi",
+    "Link": null,
+    "Sayfa No": "282",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7566",
+    "Konu": "Annenin, Süt Emzirme Ücreti İstemesi",
+    "Link": null,
+    "Sayfa No": "283",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7567",
+    "Konu": "Bakma ve Terbiye Etme Hakkının Süresi",
+    "Link": null,
+    "Sayfa No": "284",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7568",
+    "Konu": "Çocuğa Bakma ve Terbiye Etmede Öncelik",
+    "Link": null,
+    "Sayfa No": "287",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7569",
+    "Konu": "Çocuğun Velayetini Üstlenecek Kişide Aranan Şartlar",
+    "Link": null,
+    "Sayfa No": "289",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7570",
+    "Konu": "Haremlik-Selamlık",
+    "Link": null,
+    "Sayfa No": "292",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7571",
+    "Konu": "Avret",
+    "Link": null,
+    "Sayfa No": "295",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7572",
+    "Konu": "Erkeğin Avret Yerleri",
+    "Link": null,
+    "Sayfa No": "296",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7573",
+    "Konu": "Kadının Kocasına Karşı veya Tek Başındayken Açılması",
+    "Link": null,
+    "Sayfa No": "300",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7574",
+    "Konu": "Kadın Sesi",
+    "Link": null,
+    "Sayfa No": "302",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7575",
+    "Konu": "Çocukların Avreti",
+    "Link": null,
+    "Sayfa No": "303",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7576",
+    "Konu": "Enişte veya Kayın Biraderle Baş Başa Kalmak",
+    "Link": null,
+    "Sayfa No": "304",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7577",
+    "Konu": "Eşlerin Kol Kola Yürümeleri",
+    "Link": null,
+    "Sayfa No": "306",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7578",
+    "Konu": "Kadınların Yabancı Erkeklere Şehevi Gözle Bakmaları",
+    "Link": null,
+    "Sayfa No": "308",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7579",
+    "Konu": "Teberruc ve İhtilat",
+    "Link": null,
+    "Sayfa No": "310",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7580",
+    "Konu": "İhtilat (Kadınların Namahremleriyle Bir Arada Bulunmaları)",
+    "Link": null,
+    "Sayfa No": "315",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7581",
+    "Konu": "Tesettür",
+    "Link": null,
+    "Sayfa No": "317",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7582",
+    "Konu": "Giyim-Kuşam",
+    "Link": null,
+    "Sayfa No": "333",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7583",
+    "Konu": "Giyim Kuşamın Hikmeti",
+    "Link": null,
+    "Sayfa No": "335",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7584",
+    "Konu": "Farz, Sünnet, Mekruh ve Haram Olan Giyim Kuşam",
+    "Link": null,
+    "Sayfa No": "340",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7585",
+    "Konu": "Giyside Bulunması Gereken Vasıflar",
+    "Link": null,
+    "Sayfa No": "343",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7586",
+    "Konu": "Elbisenin Ölçüsü",
+    "Link": null,
+    "Sayfa No": "346",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7587",
+    "Konu": "Elbisenin Dar Olmaması",
+    "Link": null,
+    "Sayfa No": "348",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7588",
+    "Konu": "Elbisenin Teni Göstermemesi",
+    "Link": null,
+    "Sayfa No": "350",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7589",
+    "Konu": "Elbisenin Karşı Cinsin Elbisesine Benzememesi",
+    "Link": null,
+    "Sayfa No": "352",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7590",
+    "Konu": "Gayrımüslimlerin Özel Elbiselerine Benzememesi",
+    "Link": null,
+    "Sayfa No": "354",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7591",
+    "Konu": "Şöhret ve Kibir Elbisesi Olmaması",
+    "Link": null,
+    "Sayfa No": "356",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7592",
+    "Konu": "İsraftan Uzak Olması",
+    "Link": null,
+    "Sayfa No": "358",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7593",
+    "Konu": "Elbisenin Güzel ve Temiz Olması",
+    "Link": null,
+    "Sayfa No": "358",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7594",
+    "Konu": "Elbisede Tevazu ve Sadelik",
+    "Link": null,
+    "Sayfa No": "359",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7595",
+    "Konu": "İpek Elbise",
+    "Link": null,
+    "Sayfa No": "360",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7596",
+    "Konu": "Kürk Giymek",
+    "Link": null,
+    "Sayfa No": "364",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7597",
+    "Konu": "Sütyen Takmak ve İnce Çorap Giymek",
+    "Link": null,
+    "Sayfa No": "364",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7598",
+    "Konu": "Ziynet",
+    "Link": null,
+    "Sayfa No": "365",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7599",
+    "Konu": "Ziynetlerinin Gösterilmesi",
+    "Link": null,
+    "Sayfa No": "368",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7600",
+    "Konu": "Ziynette Dikkat Edilmesi Gereken Hususlar",
+    "Link": null,
+    "Sayfa No": "369",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7601",
+    "Konu": "Yüzük Takmak",
+    "Link": null,
+    "Sayfa No": "371",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7602",
+    "Konu": "Altın Yüzük",
+    "Link": null,
+    "Sayfa No": "371",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7603",
+    "Konu": "Erkek Çocuğun Altın Yüzük Takması",
+    "Link": null,
+    "Sayfa No": "371",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7604",
+    "Konu": "Gümüş Yüzük",
+    "Link": null,
+    "Sayfa No": "372",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7605",
+    "Konu": "Gümüş Yüzüğün Miktarı",
+    "Link": null,
+    "Sayfa No": "373",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7606",
+    "Konu": "Altın veya Gümüş Olmayan Yüzük",
+    "Link": null,
+    "Sayfa No": "374",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7607",
+    "Konu": "Yüzüğün Takılacağı Parmak",
+    "Link": null,
+    "Sayfa No": "376",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7608",
+    "Konu": "Birkaç Yüzük Takmak",
+    "Link": null,
+    "Sayfa No": "376",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7609",
+    "Konu": "Gerdanlık-Kolye Takmak",
+    "Link": null,
+    "Sayfa No": "377",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7610",
+    "Konu": "Asa-Baston Kullanmak",
+    "Link": null,
+    "Sayfa No": "379",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7611",
+    "Konu": "Altın ve Gümüş Kap Kullanmak",
+    "Link": null,
+    "Sayfa No": "383",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7612",
+    "Konu": "Fıtrat",
+    "Link": null,
+    "Sayfa No": "385",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7613",
+    "Konu": "Estetik Müdahale",
+    "Link": null,
+    "Sayfa No": "387",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7614",
+    "Konu": "Saç",
+    "Link": null,
+    "Sayfa No": "387",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7615",
+    "Konu": "Saç Modelleri",
+    "Link": null,
+    "Sayfa No": "387",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7616",
+    "Konu": "Saç Bakımı",
+    "Link": null,
+    "Sayfa No": "391",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7617",
+    "Konu": "Saçların Kesilmesi",
+    "Link": null,
+    "Sayfa No": "394",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7618",
+    "Konu": "Saç Boyamak",
+    "Link": null,
+    "Sayfa No": "395",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7619",
+    "Konu": "Saç ve Sakaldaki Beyazları Gidermek",
+    "Link": null,
+    "Sayfa No": "397",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7620",
+    "Konu": "Saçın Rengini Değiştirmede Kullanılan Boyalar",
+    "Link": null,
+    "Sayfa No": "398",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7621",
+    "Konu": "Siyah Boya",
+    "Link": null,
+    "Sayfa No": "399",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7622",
+    "Konu": "Saç Ektirmek veya Peruk Takmak",
+    "Link": null,
+    "Sayfa No": "400",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7623",
+    "Konu": "Ele Kına Yakmak",
+    "Link": null,
+    "Sayfa No": "405",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7624",
+    "Konu": "Oje Sürmek",
+    "Link": null,
+    "Sayfa No": "406",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7625",
+    "Konu": "Kasık ve Koltuk Altı Tıraşı",
+    "Link": null,
+    "Sayfa No": "407",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7626",
+    "Konu": "Kaş Aldırmak",
+    "Link": null,
+    "Sayfa No": "409",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7627",
+    "Konu": "Tırnakları Kesmek",
+    "Link": null,
+    "Sayfa No": "412",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7628",
+    "Konu": "Tırnakları Kesme Vakti",
+    "Link": null,
+    "Sayfa No": "412",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7629",
+    "Konu": "Makyaj Yapmak",
+    "Link": null,
+    "Sayfa No": "413",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7630",
+    "Konu": "Sürme Çekmek",
+    "Link": null,
+    "Sayfa No": "414",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7631",
+    "Konu": "Koku Sürünmek",
+    "Link": null,
+    "Sayfa No": "415",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7632",
+    "Konu": "Erkeklerin Koku Sürünmeleri",
+    "Link": null,
+    "Sayfa No": "415",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7633",
+    "Konu": "Bayanların Koku Sürünmesi",
+    "Link": null,
+    "Sayfa No": "416",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7634",
+    "Konu": "Kadının Namahremleri Bulunan Yerde Güzel ve Çekici Koku Yaymaması",
+    "Link": null,
+    "Sayfa No": "417",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7635",
+    "Konu": "Kolonya ve Emsali Parfümler",
+    "Link": null,
+    "Sayfa No": "418",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7636",
+    "Konu": "Kulak Deldirmek",
+    "Link": null,
+    "Sayfa No": "420",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7637",
+    "Konu": "Dişleri Yontarak Seyrekleştirmek",
+    "Link": null,
+    "Sayfa No": "421",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7638",
+    "Konu": "Dolgu, Protez ve Diş Teli",
+    "Link": null,
+    "Sayfa No": "422",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7639",
+    "Konu": "Dövme Yaptırmak",
+    "Link": null,
+    "Sayfa No": "424",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7640",
+    "Konu": "Dövme ve Abdest",
+    "Link": null,
+    "Sayfa No": "425",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7641",
+    "Konu": "Dövmeyi Sildirmek",
+    "Link": null,
+    "Sayfa No": "426",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7642",
+    "Konu": "Sünnet Olmak",
+    "Link": null,
+    "Sayfa No": "427",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7643",
+    "Konu": "Kadınlar Arasında Yapılan Altın Günü",
+    "Link": null,
+    "Sayfa No": "430",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7644",
+    "Konu": "Kadınlara Özel Haller",
+    "Link": null,
+    "Sayfa No": "432",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7645",
+    "Konu": "Fasit Kan/Özür Kanı",
+    "Link": null,
+    "Sayfa No": "433",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7646",
+    "Konu": "Kan Renkleri",
+    "Link": null,
+    "Sayfa No": "434",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7647",
+    "Konu": "Hayız ve Loğusalık Müddetleri",
+    "Link": null,
+    "Sayfa No": "434",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7648",
+    "Konu": "Adetin Sabit Oluşu",
+    "Link": null,
+    "Sayfa No": "434",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7649",
+    "Konu": "Düşük Yapan Kadın",
+    "Link": null,
+    "Sayfa No": "435",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7650",
+    "Konu": "Peş Peşe İki Çocuk Doğuran Kadın",
+    "Link": null,
+    "Sayfa No": "435",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7651",
+    "Konu": "Doğum Yapan Kadın",
+    "Link": null,
+    "Sayfa No": "436",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7652",
+    "Konu": "Adetin Değişme Şekli",
+    "Link": null,
+    "Sayfa No": "436",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7653",
+    "Konu": "Adet Sahibi Bir Kadın Hayzını Hesaplaması",
+    "Link": null,
+    "Sayfa No": "437",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7654",
+    "Konu": "Özürlü Olan Kişi Abdest ve Namaz İçin Dikkat Etmesi Gerekenler",
+    "Link": null,
+    "Sayfa No": "438",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7655",
+    "Konu": "Hayızlı veya Loğusa Kadının Hükümleri",
+    "Link": null,
+    "Sayfa No": "442",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7656",
+    "Konu": "Ölü İçin Yapılması Gerekenler",
+    "Link": null,
+    "Sayfa No": "446",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7657",
+    "Konu": "Kefen ve Teçhiz",
+    "Link": null,
+    "Sayfa No": "446",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7658",
+    "Konu": "Borçlarının Ödenmesi",
+    "Link": null,
+    "Sayfa No": "447",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7659",
+    "Konu": "Vasiyet",
+    "Link": null,
+    "Sayfa No": "448",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7660",
+    "Konu": "Vasiyetten Dönmek",
+    "Link": null,
+    "Sayfa No": "450",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7661",
+    "Konu": "Vasiyeti Kabul",
+    "Link": null,
+    "Sayfa No": "451",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7662",
+    "Konu": "Birden Fazla Vasi Tayini",
+    "Link": null,
+    "Sayfa No": "451",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7663",
+    "Konu": "Vasinin Yetkileri",
+    "Link": null,
+    "Sayfa No": "452",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7664",
+    "Konu": "Menfaatlerin Vasiyeti",
+    "Link": null,
+    "Sayfa No": "453",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7665",
+    "Konu": "Allah Haklarıyla İlgili Vasiyetler",
+    "Link": null,
+    "Sayfa No": "454",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7666",
+    "Konu": "Miras Hukuku",
+    "Link": null,
+    "Sayfa No": "456",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7667",
+    "Konu": "Varisler",
+    "Link": null,
+    "Sayfa No": "457",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7668",
+    "Konu": "Asaba Bi-Nefsihi",
+    "Link": null,
+    "Sayfa No": "459",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7669",
+    "Konu": "Asabe Bil-Gayr",
+    "Link": null,
+    "Sayfa No": "459",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7670",
+    "Konu": "Asabe Maal-Gayr",
+    "Link": null,
+    "Sayfa No": "460",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7671",
+    "Konu": "Miras Almaya Mani Sebepler",
+    "Link": null,
+    "Sayfa No": "461",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7672",
+    "Konu": "Farz Sahiplerinin Halleri (Kırk Hal)",
+    "Link": null,
+    "Sayfa No": "462",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7673",
+    "Konu": "Babanın Halleri",
+    "Link": null,
+    "Sayfa No": "463",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7674",
+    "Konu": "Dedenin Halleri",
+    "Link": null,
+    "Sayfa No": "463",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7675",
+    "Konu": "Anne Bir Kardeşlerin Halleri",
+    "Link": null,
+    "Sayfa No": "464",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7676",
+    "Konu": "Öz Kızın Halleri",
+    "Link": null,
+    "Sayfa No": "464",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7677",
+    "Konu": "Oğlun Kızının Halleri",
+    "Link": null,
+    "Sayfa No": "464",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7678",
+    "Konu": "Annenin Halleri",
+    "Link": null,
+    "Sayfa No": "465",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7679",
+    "Konu": "Ninelerin Halleri",
+    "Link": null,
+    "Sayfa No": "465",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7680",
+    "Konu": "Öz Kız Kardeşin Halleri",
+    "Link": null,
+    "Sayfa No": "466",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7681",
+    "Konu": "Baba Bir Kız Kardeşin Halleri",
+    "Link": null,
+    "Sayfa No": "466",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7682",
+    "Konu": "Kocanın Halleri",
+    "Link": null,
+    "Sayfa No": "467",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7683",
+    "Konu": "Hanımın Halleri (Zevce)",
+    "Link": null,
+    "Sayfa No": "467",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7684",
+    "Konu": "Ölen Kişiyle İki Cihetten Akrabalığı Bulunan Kişinin Miras Payı",
+    "Link": null,
+    "Sayfa No": "467",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7685",
+    "Konu": "Hacb",
+    "Link": null,
+    "Sayfa No": "468",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7686",
+    "Konu": "Zevil-Erham (Ölüyle Kan Bağı Olanlar)",
+    "Link": null,
+    "Sayfa No": "469",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7687",
+    "Konu": "Zevil-Erham (Ölüyle Kan Bağı Olanlar) 1. Sınıf",
+    "Link": null,
+    "Sayfa No": "470",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7688",
+    "Konu": "Zevil-Erham (Ölüyle Kan Bağı Olanlar) 2. Sınıf",
+    "Link": null,
+    "Sayfa No": "471",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7689",
+    "Konu": "Zevil-Erham (Ölüyle Kan Bağı Olanlar) 3. Sınıf",
+    "Link": null,
+    "Sayfa No": "472",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7690",
+    "Konu": "Zevil-Erham (Ölüyle Kan Bağı Olanlar) 4. Sınıf",
+    "Link": null,
+    "Sayfa No": "472",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7691",
+    "Konu": "Toplu Ölümlerde Miras Taksimi",
+    "Link": null,
+    "Sayfa No": "473",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7692",
+    "Konu": "Batıl Nikahla Evli Olanların Mirası",
+    "Link": null,
+    "Sayfa No": "473",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7693",
+    "Konu": "Anne Karnındaki Ceninin Mirası",
+    "Link": null,
+    "Sayfa No": "473",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7694",
+    "Konu": "Kayıp Kişilerin Mirası",
+    "Link": null,
+    "Sayfa No": "474",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
+  },
+  {
+    "No": "7695",
+    "Konu": "Çift Cinsiyetli Olanların Mirası",
+    "Link": null,
+    "Sayfa No": "474",
+    "Kitap Adı": "(Aile İlmihali)",
+    "Yazar": "(Fatih Kalender)"
   }
 ]

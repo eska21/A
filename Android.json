@@ -93,7 +93,7 @@
     "No": "11",
     "Konu": "Diğer Kitapların (İçindekiler)",
     "Link": "https://mfs79.github.io/A/indexler2.html",
-    "Konu Sayısı": "7373",
+    "Konu Sayısı": "7695",
     "Güncelleme Tarihi": "2021-01-22T08:00:00.000Z",
     "Resim": "https://mfs79.github.io/A/iconAna/Kitap.png",
     "Durumu": "Hazır"
@@ -127,6 +127,15 @@
   },
   {
     "No": "15",
+    "Konu": "İlmihal Bilgileri",
+    "Link": null,
+    "Konu Sayısı": "0",
+    "Güncelleme Tarihi": "2021-01-22T08:00:00.000Z",
+    "Resim": null,
+    "Durumu": "Hazırlanıyor"
+  },
+  {
+    "No": "16",
     "Konu": "Klavuz (Liste ile İlgili Bilgiler)",
     "Link": "https://drive.google.com/file/d/1tovgMxEXUaYBZbGzJFSqUUd97jaBfRSM/view?usp=sharing",
     "Konu Sayısı": "1",
