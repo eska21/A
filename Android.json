@@ -4,7 +4,7 @@
     "Konu": "Kitaplar 1 (Orjinal Boyut)",
     "Link": "https://mfs79.github.io/A/Kitaplar1.html",
     "Konu Sayısı": "933",
-    "Güncelleme Tarihi": "2021-01-20T08:00:00.000Z",
+    "Güncelleme Tarihi": "2021-01-28T08:00:00.000Z",
     "Resim": "https://mfs79.github.io/A/iconAna/Kitap.png",
     "Durumu": "Hazır"
   },
@@ -57,8 +57,8 @@
     "No": "7",
     "Konu": "Listeye Son Eklenenler",
     "Link": "https://mfs79.github.io/A/ListeSonEklenen.html",
-    "Konu Sayısı": "59",
-    "Güncelleme Tarihi": "2021-01-20T08:00:00.000Z",
+    "Konu Sayısı": "64",
+    "Güncelleme Tarihi": "2021-01-28T08:00:00.000Z",
     "Resim": "https://mfs79.github.io/A/iconAna/Bitti.png",
     "Durumu": "Hazır"
   },
@@ -127,7 +127,7 @@
   },
   {
     "No": "15",
-    "Konu": "İlmihal Bilgileri (Tektek)",
+    "Konu": "İlmihal Bilgileri (Tek Tek)",
     "Link": "https://mfs79.github.io/A/ilmihal.html",
     "Konu Sayısı": "338",
     "Güncelleme Tarihi": "2021-01-25T08:00:00.000Z",
@@ -136,6 +136,15 @@
   },
   {
     "No": "16",
+    "Konu": "Celaleyn Tefsiri Tercümesi (Tek Tek)",
+    "Link": null,
+    "Konu Sayısı": "114",
+    "Güncelleme Tarihi": "2021-01-28T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/SonEklenen/Celaleyn.jpg",
+    "Durumu": "Hazırlanıyor"
+  },
+  {
+    "No": "17",
     "Konu": "Klavuz (Liste ile İlgili Bilgiler)",
     "Link": "https://drive.google.com/file/d/1tovgMxEXUaYBZbGzJFSqUUd97jaBfRSM/view?usp=sharing",
     "Konu Sayısı": "1",
