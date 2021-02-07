@@ -1,129 +1,136 @@
 [
   {
+    "No": "No",
+    "Konu": "Konu",
+    "Link": "Link",
+    "İçerik": "İçerik",
+    "Kategori": "Kategori"
+  },
+  {
     "No": "0",
-    "Konu": "Kitap Arka Kapak",
+    "Konu": "Önsöz",
     "Link": null,
-    "İçerik": "<a><font color= #993300>\n\"Andolsun ki Biz, bu Kur'an'da insanlara her türlü misali verdik ki ögüt alsınlar\"\"\n</font>\n<br/></a><br/>\n<a><font color= #990000>\n(Zümer 27)\n</font></a>\n<br/><br/>\n<a><font color= #003366>\nİnsanlara öğüt vermenin, insanı doğru yola iletmenin çeşitli yöntemleri vardır.\n<br/><br/>\nBunlardan biri de ibret verici olaylarla anlatımdır.\n<br/><br/>\nPek çok hakikatler anlaşılması zor nice meseleler ibret dolu kıssalar yoluyla anlatılarak, adeta bir film şeridi gibi gözler önüne serilmekte ve insanların kafasında canlandırıp tasavvur edebileceği ve herkesin kolayca anlayabileceği bir hale getirilmektedir.\n<br/><br/>\nTelkin ve öğretime kıssa anlatımının ehemmiyeti sebebiyle Kur'an-ı Kerim'de bazı hakikatlerin izahı yapılırken, pek çok yerde geçmiş peygamberlerin ibret dolu hayatları zikredilmiş ve bunlar etkili bir üslupla ele alınmıştır.\n<br/><br/>\nMevla Te'ala, Kur'an'ın bildirdiği hakikatlere uymayı ve geçmişlerin kıssalarından ibret almayı cümlemize nasip eylesin.\n</font></a>\n<br/><br/>\n<a><font color= #990000>\nAmin!\n</font>\n<br/></a><br/>",
-    "Kategori": null
+    "İçerik": "<a><font color= #993300>\n\"Andolsun ki Biz,\n bu Kur'an'da insanlara her türlü misali verdik ki ögüt alsınlar\"\n</font>\n<br/></a><br/>\n<a><font color= #990000>\n(Zümer 27)\n</font></a>\n<br/><br/>\n<a><font color= #003366>\nİnsanlara öğüt vermenin, insanı doğru yola iletmenin çeşitli yöntemleri vardır.\n<br/><br/>\nBunlardan biri de ibret verici olaylarla anlatımdır.\n<br/><br/>\nPek çok hakikatler anlaşılması zor nice meseleler ibret dolu kıssalar yoluyla anlatılarak, adeta bir film şeridi gibi gözler önüne serilmekte ve insanların kafasında canlandırıp tasavvur edebileceği ve herkesin kolayca anlayabileceği bir hale getirilmektedir.\n<br/><br/>\nTelkin ve öğretime kıssa anlatımının ehemmiyeti sebebiyle Kur'an-ı Kerim'de bazı hakikatlerin izahı yapılırken, pek çok yerde geçmiş\npeygamberlerin ibret dolu hayatları zikredilmiş ve bunlar etkili bir üslupla ele alınmıştır.\n<br/><br/>\nMevla Te'ala, Kur'an'ın bildirdiği hakikatlere uymayı ve geçmişlerin kıssalarından ibret almayı cümlemize nasip eylesin.\n</font></a>\n<br/><br/>\n<a><font color= #990000>\nAmin!\n</font>\n<br/></a><br/>",
+    "Kategori": "(-)"
   },
   {
     "No": "1",
     "Konu": "Hz. Yusuf Aleyhisselam",
-    "Link": "5",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- Yakup (Aleyhisselam)'ın Hz. Yusuf'u daha Çok Sevmesinin Sebebi\n<br/><br/>\n- Yusuf (Aleyhisselam)'ın Rüyası\n<br/><br/>\n- Yusuf (Aleyhisselam)'ın Kardeşleri Tarafından Kuyuya Atılması\n<br/><br/>\n- Hz. Yusuf'un Kuyudan Çıkarılması\n<br/><br/>\n- Müthiş Bir İmtihan\n<br/><br/>\n- Yusuf (Aleyhisselam)'ın Zindana Atılması\n<br/><br/>\n- Zindandan Çıkarılması\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "2",
     "Konu": "Hz. Nuh Aleyhisselam",
-    "Link": "25",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- İnatçı ve İnkarcı Bir Kavim\n<br/><br/>\n- Nuh (Aleyhisselam) Gemi Yapımına Başlıyor\n<br/><br/>\n- Nuh Tufanı\n<br/><br/>\n- Şahitlik Yapacak Ümmet\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "3",
     "Konu": "Hz. İbrahim Aleyhisselam",
-    "Link": "38",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- İbrahim (Aleyhisselam)'ın Nemrutla Konuşması\n<br/><br/>\n- İsmail (Aleyhisselam)'ın Dünyaya Gelmesi\n<br/><br/>\n- Hacer Annemizin Büyük İmtihanı\n<br/><br/>\n- Zemzem Suyu'nun Çıkması\n<br/><br/>\n- İsmail (Aleyhisselam)'ın Kurban Etmeye Götürülmesi\n<br/><br/>\n- Müthiş Bir İmtihan Tablosu\n<br/><br/>\n- Kim daha Cömert\n<br/><br/>\n- İbrahim (Aleyhisselam)'ın Malıyla İmtihan Edilmesi\n<br/><br/>\n- İbrahim (Aleyhisselam)'ın Kabe'yi Bina Etmesi\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "4",
     "Konu": "Hz. Musa Aleyhisselam",
-    "Link": "67",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- Firavun'un Gördüğü Rüya\n<br/><br/>\n- Musa (Aleyhisselam) Doğuyor\n<br/><br/>\n- Musa (Aleyhisselam) Firavun'un Sarayında\n<br/><br/>\n- Annesi, Yavrusuna Kavuşuyor\n<br/><br/>\n- Altın ve Ateşle Yapılan İmtihan\n<br/><br/>\n- Firavuna Yapılan Cazip Teklif\n<br/><br/>\n- Firavun'a Git Çünkü o Hakikaten Azdı\n<br/><br/>\n- Musa (Aleyhisselam)'ın Sihirbazlarla Karşılaşması\n<br/><br/>\n- Sihirbazların İmanı ve Şehadeti\n<br/><br/>\n- Firavun ve Kavmine Gelen Bir Dizi Belalar\n<br/><br/>\n- İsrailoğulları'nın Mısır'dan Çıkmaları\n<br/><br/>\n- Firavun'un Boğulması\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "5",
     "Konu": "Hz. Yunus Aleyhisselam",
-    "Link": "99",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- Ninova Halkının Topluca Tövbe Etmesi\n<br/><br/>\n- Çekilen Kura Yunus (Aleyhisselam)'a Çıkıyor\n<br/><br/>\n- Yunus (Aleyhisselam) Balığın Karnında\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "6",
     "Konu": "Hz. Eyyüb Aleyhisselam",
-    "Link": "107",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- Ah Çekerek Ağlamasının Sebebi\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "7",
     "Konu": "Hz. Üzeyr Aleyhisselam",
-    "Link": "115",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "(-)",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "8",
     "Konu": "Hz. Süleyman Aleyhisselam",
-    "Link": "120",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- Süleyman (Aleyhisselam)'ın Verdiği Hüküm\n<br/><br/>\n- Çocuk Kime Ait\n<br/><br/>\n- İftiranın Açıga Çıkarılması\n<br/><br/>\n- Ecelin Yeri ve Zamanı Degişmez\n<br/><br/>\n- Rızık Allah'a Aittir\n<br/><br/>\n- Karıncanın Yaptığı Dua\n<br/><br/>\n- Süleyman (Aleyhisselam) ve Karınca\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "9",
     "Konu": "Musa ile Hızır Aleyhimesselam",
-    "Link": "129",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "(-)",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "10",
     "Konu": "Hz. İdris Aleyhisselam",
-    "Link": "136",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- Hızır ile İlyas (Aleyhimesselam)\n<br/><br/>\n- İlk defa Elbise Diken\n<br/><br/>\n- İdris (Aleyhisselam) Pek Çok Şeyde İlk İdi\n<br/><br/>\n- İdris (Aleyhisselam)'ın Göklere Yükseltilmesi\n<br/><br/>\n- İdris (Aleyhisselam)'ın Cennete Girişi ve Çıkmak İstemeyişi\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamber Kıssaları)"
   },
   {
     "No": "11",
     "Konu": "Bel'am İbni Baura",
-    "Link": "143",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\nMusa (Aleyhisselam) zamanında yaşamış olan Bel'am ibni Baura önceleri ilim\nirfan sahibi bir kimseydi.\n<br/><br/>\nÖyle ki, Allah-u Te'ala'nın kendisine ögrettiği ism-i Azam ile dua ettiğinde, duasına mutlaka icabet edilen bir zat idi.\n<br/><br/>\nAma ne acayiptir ki, sahip olduğu böylesine büyük bir nimeti, bir kere bile Allah'tan bilmemiş ve Ona\nşükretmemişti.\n<br/><br/>\nDaha sonra Allah'ın kendisine ihsan ettigi bu nimeti isyanda kullanmış, Musa (Aleyhisselam)'a ve ona tabi olanlara beddua ederek sapıtmış, böylece Allah'ın rahmetinden uzak olmuştu.\n</font>\n<br/></a><br/>",
+    "Kategori": "(Diğer Kıssalar)"
   },
   {
     "No": "12",
     "Konu": "Ashab-ı Kehf",
-    "Link": "147",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\nAshab-ı Kehf'e; \"Mağara arkadaşları\" , \"yedi uyurlar\" adı da verilmektedir.\n<br/><br/>\nKur'an-ı Kerim'de, Kehf suresin 9. ayetinden itibaren, 26. ayetin sonuna kadar Ashab-ı Kehf'den bahsedilmektedir.\n<br/><br/>\nBunda akıl sahipleri için pek çok ibretler ve dersler vardır.\n</font>\n<br/></a><br/>",
+    "Kategori": "(Diğer Kıssalar)"
   },
   {
     "No": "13",
     "Konu": "Habil ile Kabil",
-    "Link": "153",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\n- Allah İçin İnfak Etmenin Faydası\n<br/><br/>\n- Yeryüzünün İlk Cinayeti\n<br/><br/>\n- Defin İşini Kargadan Öğrendi\n</font>\n<br/></a><br/>",
+    "Kategori": "(Diğer Kıssalar)"
   },
   {
     "No": "14",
     "Konu": "Asiye Binti Müzahim",
-    "Link": "160",
-    "İçerik": null,
-    "Kategori": null
+    "Link": null,
+    "İçerik": "<a><font color= #003366>\nAsiye binti Müzahim, son derece asil, soylu ve güzel bir kadın ...\n<br/><br/>\nO, Nil'in Kraliçesi...\n<br/><br/>\n- Asiye binti Müzahim'in Musa (Aleyhisselam)'ı evlatlık edinmesi\n<br/><br/>\n- Firavun'un Musa (Aleyhisselam)'ı İmtihan etmesi\n<br/><br/>\n- Asiye binti Müzahim'in İman Etmesi\n</font>\n<br/></a><br/>",
+    "Kategori": "(Diğer Kıssalar)"
   },
   {
     "No": "15",
     "Konu": "Maşite Sultan",
     "Link": "169",
-    "İçerik": null,
-    "Kategori": null
+    "İçerik": "<a><font color= #003366>\nFiravunun hazine işleriyle görevli bir veziri, bunun da Maşite adında bir hanımı vardı.\n<br/><br/>\nFiravunun kızının dadılıgını yapıyordu.\n<br/><br/>\nO'da Musa (Aleyhisselam)'a iman etmiş, cennet yolcuları kervanına katılmıştı.\n<br/><br/>\nMaşite hatun saraydaki gizli müminlerden olup, ibadetlerini de gizlice yapıyordu.\n<br/><br/>\n- İşkence Başlıyor\n<br/><br/>\n- Kundaktaki Bebek Dile Geliyor\n</font>\n<br/></a><br/>",
+    "Kategori": "(Diğer Kıssalar)"
   },
   {
     "No": "16",
     "Konu": "Ahirette İlk Sorguya Çekilecek Üç Kişi",
     "Link": "174",
-    "İçerik": null,
-    "Kategori": null
+    "İçerik": "<a><font color= #003366>\nResulüllah (Sallallahü Aleyhi ve Sellem) şöyle buyurdu:\n<br/><br/>\nKıyamet gününde üç kişi ilk olarak sorguya çekilecek:\n</font>\n<br/><br/>\n<a><font color= #990000>1. </a></font>\n<a><font color= #003366>\nCihad esnasında ölen kimsedir.\n</font>\n<br/><br/>\n<a><font color= #990000>2. </a></font>\n<a><font color= #003366>\nİlim tahsil edip başkasına da öğreten ve Kur'an okuyan kimsedir.\n</font>\n<br/><br/>\n<a><font color= #990000>3. </a></font>\n<a><font color= #003366>\nAllah-u Te'ala'ın kendisine bolluk verdiği, malların her çeşidini ihsan ettiği kimsedir.\n</font>\n<br/></a><br/>",
+    "Kategori": "(Hadisler)"
   },
   {
     "No": "17",
     "Konu": "Niyetin Önemi",
     "Link": "177",
-    "İçerik": null,
-    "Kategori": null
+    "İçerik": "<a><font color= #003366>\nUhud savaşı sırasında düşman saflarını birbirine katan ve savaş esnasında büyük maharetler gösteren bir kimse vardı. Kuzman ...\n<br/><br/>\nAmeller ancak niyetlere göredir ...\n<br/><br/>\n</font>\n<br/></a><br/>",
+    "Kategori": "(Peygamberimizin Kıssaları) (Hadisler)"
   },
   {
     "No": "18",
@@ -249,7 +256,7 @@
     "Konu": "Abdülkadir Geylani",
     "Link": "268",
     "İçerik": null,
-    "Kategori": null
+    "Kategori": "(Veliyullah Kıssaları)"
   },
   {
     "No": "36",
@@ -270,14 +277,14 @@
     "Konu": "Aziz Mahmud Hüdayi Hz.",
     "Link": "287",
     "İçerik": null,
-    "Kategori": null
+    "Kategori": "(Veliyullah Kıssaları)"
   },
   {
     "No": "39",
     "Konu": "Yavuz Sultan Selim Han",
     "Link": "291",
     "İçerik": null,
-    "Kategori": null
+    "Kategori": "(Padişah Kıssaları)"
   },
   {
     "No": "40",
@@ -291,14 +298,14 @@
     "Konu": "Fatih Sultan Mehmed Han",
     "Link": "301",
     "İçerik": null,
-    "Kategori": null
+    "Kategori": "(Padişah Kıssaları)"
   },
   {
     "No": "42",
     "Konu": "Sultan Mahmud'u Etkileyen Söz",
     "Link": "318",
     "İçerik": null,
-    "Kategori": null
+    "Kategori": "(Padişah Kıssaları)"
   },
   {
     "No": "43",
