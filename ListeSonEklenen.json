@@ -1,6 +1,61 @@
 [
   {
     "No": "1",
+    "Kitap Adı": "Reşahat - Hayat Pınarından Damlalar",
+    "Link": "https://drive.google.com/file/d/15LDa6jvTlG7yjBuWsyCEU-akTTTMBTv_/view?usp=sharing",
+    "Sayfa Sayısı": "607",
+    "Yazar": "Mevlana Ali b.Hüseyin Es-Safi",
+    "Yayınevi": "Muallim Neşriyat",
+    "Eklenme Tarihi": "2021-02-11T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/SonEklenen/Resahat.jpg",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "2",
+    "Kitap Adı": "Ruhul Furkan Tefsiri 2.Cild",
+    "Link": "https://drive.google.com/file/d/1AqvFn4knrgOM21XP_KCZLU4c75fTxjaN/view?usp=sharing",
+    "Sayfa Sayısı": "839",
+    "Yazar": "Mahmud Ustaosmanoğlu",
+    "Yayınevi": "Ahiska Yayınevi",
+    "Eklenme Tarihi": "2021-02-12T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/SonEklenen/RuhulFurkan.jpg",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "3",
+    "Kitap Adı": "Nefs Hep Karşı Gelir - Altın Öğütler",
+    "Link": "https://drive.google.com/file/d/1zMSUfVjzXpzE0S65oV0dxleZbb0sn_3M/view?usp=sharing",
+    "Sayfa Sayısı": "137",
+    "Yazar": "Abdulkadir Geylani",
+    "Yayınevi": "Gelenek Yayınları",
+    "Eklenme Tarihi": "2021-02-13T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/SonEklenen/NefsHep.jpg",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "4",
+    "Kitap Adı": "Rızkını Dert Etme - Altın Öğütler",
+    "Link": "https://drive.google.com/file/d/1StkcVdXJlzJBe3POGPtFhkphP6RVWaY5/view?usp=sharing",
+    "Sayfa Sayısı": "136",
+    "Yazar": "Abdulkadir Geylani",
+    "Yayınevi": "Gelenek Yayınları",
+    "Eklenme Tarihi": "2021-02-14T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/SonEklenen/RizkiniDert.jpg",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "5",
+    "Kitap Adı": "Gizli Telkinle Kuran Terapisi - Bilinçaltını Yeniden İnşa Etmek",
+    "Link": "https://drive.google.com/file/d/1C0ouQWem9m2W1hnrTHWS9r5vql5ipGcH/view?usp=sharing",
+    "Sayfa Sayısı": "152",
+    "Yazar": "Kubilay Aktaş",
+    "Yayınevi": "Elest Kitaplar",
+    "Eklenme Tarihi": "2021-02-15T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/SonEklenen/GizliTelkin.jpg",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "6",
     "Kitap Adı": "Celaleyn Tefsiri Tercümesi 3.Cilt (Celaleddin Es Süyuti)",
     "Link": "https://drive.google.com/file/d/1Gg6pNCTpfWT2zUVsk_kKObt5Csl7AL5Q/view?usp=sharing",
     "Sayfa Sayısı": "655",
@@ -11,7 +66,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "2",
+    "No": "7",
     "Kitap Adı": "El-Hidaye Tercümesi 5.Cilt",
     "Link": "https://drive.google.com/file/d/1uaCFwbFhXLpJ0QGaurflNBWXqGqJ_c3T/view?usp=sharing",
     "Sayfa Sayısı": "590",
@@ -22,7 +77,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "3",
+    "No": "8",
     "Kitap Adı": "Müteşabih Nasların Tevilinde Ölçü",
     "Link": "https://drive.google.com/file/d/158NcMun1MACkTDEf3cORCOUV1X9XQIUi/view?usp=sharing",
     "Sayfa Sayısı": "94",
@@ -33,7 +88,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "4",
+    "No": "9",
     "Kitap Adı": "Sırlı Salavat-ı Şerifeler Ansiklopedisi",
     "Link": "https://drive.google.com/file/d/1cgvZFEsKpPPxSYwgQK_mBhrAjq1FHOvP/view?usp=sharing",
     "Sayfa Sayısı": "497",
@@ -44,7 +99,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "5",
+    "No": "10",
     "Kitap Adı": "Lalegül Şubat 2021 (Full)",
     "Link": "https://drive.google.com/file/d/1jIC1y1Y5jZUdZBip5kw9hbMmtlBUGpWq/view?usp=sharing",
     "Sayfa Sayısı": "80",
@@ -55,7 +110,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "6",
+    "No": "11",
     "Kitap Adı": "Celaleyn Tefsiri Tercümesi 2.Cilt (Celaleddin Es Süyuti)",
     "Link": "https://drive.google.com/file/d/16zCGGq91zvEKObPnIAZI3Swj1DNPQoxx/view?usp=sharing",
     "Sayfa Sayısı": "638",
@@ -66,7 +121,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "7",
+    "No": "12",
     "Kitap Adı": "Büyük Şafii Fıkhı 2.Cild (Mustafa el-Hin - Mustafa el-Buğa - Ali eş-Şerbeci)",
     "Link": "https://drive.google.com/file/d/1Imr9heExuS8HzZkdjfXp3G5SwNyratPD/view?usp=sharing",
     "Sayfa Sayısı": "383",
@@ -77,7 +132,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "8",
+    "No": "13",
     "Kitap Adı": "114 Kudsi Hadisi Şerif - Allah'ın Elçisi'nin Rabbin'den Rivayet Ettiği",
     "Link": "https://drive.google.com/file/d/109Cp6ehm2Cg6HmsG3d79OOYXwpx1KUbZ/view?usp=sharing",
     "Sayfa Sayısı": "320",
@@ -88,7 +143,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "9",
+    "No": "14",
     "Kitap Adı": "Kudsi Hadisler",
     "Link": "https://drive.google.com/file/d/1z7jfbUO6Bt7pVMw8LF5YwuHN_9PlXKaj/view?usp=sharing",
     "Sayfa Sayısı": "88",
@@ -99,7 +154,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "10",
+    "No": "15",
     "Kitap Adı": "Seyr ü Sülük Risaleleri",
     "Link": "https://drive.google.com/file/d/1cf6LAYe0I3f6V-CjLmEhIlkL35Qzu7kG/view?usp=sharing",
     "Sayfa Sayısı": "128",
@@ -110,7 +165,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "11",
+    "No": "16",
     "Kitap Adı": "Yüce Sahabi Halid İbni Zeyd Ebu Eyyub El-Ensari",
     "Link": "https://drive.google.com/file/d/1jiqjlYVIL4k8Turkn_jWVDyDMPd7dmoF/view?usp=sharing",
     "Sayfa Sayısı": "176",
@@ -121,7 +176,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "12",
+    "No": "17",
     "Kitap Adı": "Büyük Şafii Fıkhı 1.Cild (Mustafa el-Hin - Mustafa el-Buğa - Ali eş-Şerbeci)",
     "Link": "https://drive.google.com/file/d/1f4B-pu5N2tndBFk3VXCD7B5BvpHlAudx/view?usp=sharing",
     "Sayfa Sayısı": "432",
@@ -132,7 +187,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "13",
+    "No": "18",
     "Kitap Adı": "Celaleyn Tefsiri Tercümesi 1.Cilt (Celaleddin Es Süyuti)",
     "Link": "https://drive.google.com/file/d/1XFUK6XFXoeVP9E9QYZcFVEN0vglgyM5m/view?usp=sharing",
     "Sayfa Sayısı": "623",
@@ -143,7 +198,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "14",
+    "No": "19",
     "Kitap Adı": "Mektubatı Rabbani Tercümesi 1. Cilt",
     "Link": "https://drive.google.com/file/d/1b5aOYUDivvE2vZ73XvxPoVSDhVk0yANa/view?usp=sharing",
     "Sayfa Sayısı": "669",
@@ -154,7 +209,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "15",
+    "No": "20",
     "Kitap Adı": "İki Ayet'i Kerime'nin Sırları",
     "Link": "https://drive.google.com/file/d/1q_e7Kqoxnla7XsniTIMCg1rS-CThQWyi/view?usp=sharing",
     "Sayfa Sayısı": "157",
@@ -165,7 +220,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "16",
+    "No": "21",
     "Kitap Adı": "Sohbetler (Özel Baskı) 9.Cild",
     "Link": "https://drive.google.com/file/d/1hvoizIbDtvXao1IZS8WGb5jLzUQYomtD/view?usp=sharing",
     "Sayfa Sayısı": "498",
@@ -176,7 +231,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "17",
+    "No": "22",
     "Kitap Adı": "Lalegül Ocak 2021 (Full)",
     "Link": "https://drive.google.com/file/d/1q2vJTxsNjQGvxEbXldsDNolJzTvvdByh/view?usp=sharing",
     "Sayfa Sayısı": "74",
@@ -187,7 +242,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "18",
+    "No": "23",
     "Kitap Adı": "Allah Kulundan Vazgeçer mi",
     "Link": "https://drive.google.com/file/d/1UTrHeIuj1NL_hpszKvbQZ6AhyX1amh2n/view?usp=sharing",
     "Sayfa Sayısı": "94",
@@ -198,7 +253,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "19",
+    "No": "24",
     "Kitap Adı": "Bismillah Deyip Girdik Denize",
     "Link": "https://drive.google.com/file/d/1Wc1glViZWscs7nt-xiKHWj5QGirB6U4S/view?usp=sharing",
     "Sayfa Sayısı": "100",
@@ -209,7 +264,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "20",
+    "No": "25",
     "Kitap Adı": "Davet ve Tebliğin Faziletleri",
     "Link": "https://drive.google.com/file/d/1PGzHSReFiCe-Oo_lgb_-GER54hmqB6ck/view?usp=sharing",
     "Sayfa Sayısı": "63",
@@ -220,7 +275,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "21",
+    "No": "26",
     "Kitap Adı": "Davetçinin Yol Azığı",
     "Link": "https://drive.google.com/file/d/14DUlz-MjCW0AkvXUqoAaUw5J9FgkV5dL/view?usp=sharing",
     "Sayfa Sayısı": "176",
@@ -231,7 +286,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "22",
+    "No": "27",
     "Kitap Adı": "Hicri Aylar 09 - Ramazan",
     "Link": "https://drive.google.com/file/d/1OLPiL8njYhZ36zrEMCy5SPBxEK3l6BbE/view?usp=sharing",
     "Sayfa Sayısı": "124",
@@ -242,7 +297,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "23",
+    "No": "28",
     "Kitap Adı": "Hikayelerle Namaz Sureleri ve Duaları",
     "Link": "https://drive.google.com/file/d/1VqNNWNHkXz6BDmPUPdX9UUZTQogH2wOp/view?usp=sharing",
     "Sayfa Sayısı": "183",
@@ -253,7 +308,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "24",
+    "No": "29",
     "Kitap Adı": "İlim Kapısı İmam Ali'den Yöneticilere",
     "Link": "https://drive.google.com/file/d/1zBh1ybV-YpI5mPBTwnziBctjeQukkGcA/view?usp=sharing",
     "Sayfa Sayısı": "80",
@@ -264,7 +319,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "25",
+    "No": "30",
     "Kitap Adı": "İyilik Çeşitleri",
     "Link": "https://drive.google.com/file/d/1a59ul9Ciyb2HXLg5KJ30BRQ5KTIQM4t5/view?usp=sharing",
     "Sayfa Sayısı": "68",
@@ -275,7 +330,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "26",
+    "No": "31",
     "Kitap Adı": "Kelime-i Tevhidin Fazileti",
     "Link": "https://drive.google.com/file/d/1k00QNstZ9ixyZivq-gu_zMqfGE5uwAM-/view?usp=sharing",
     "Sayfa Sayısı": "90",
@@ -286,7 +341,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "27",
+    "No": "32",
     "Kitap Adı": "Mahşer Günü - İmam Muhasibi",
     "Link": "https://drive.google.com/file/d/1BSbhPFqQ5umapSmL3YnrMWTRqhPfDjCy/view?usp=sharing",
     "Sayfa Sayısı": "81",
@@ -297,7 +352,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "28",
+    "No": "33",
     "Kitap Adı": "Melfuzat - Mevlana Muhammed İlyas Kandehlevi'nin Davet ve Tebliğ ile İlgili Nasihatleri",
     "Link": "https://drive.google.com/file/d/10ESJMx0wCPVX2wDBVTW_kiVevmmjdCxM/view?usp=sharing",
     "Sayfa Sayısı": "272",
@@ -308,7 +363,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "29",
+    "No": "34",
     "Kitap Adı": "Sorumsuzca Söylenen Sözler 1.Cild",
     "Link": "https://drive.google.com/file/d/1EULetY852jCkaMXlp2kf8AVpTdFUGxHU/view?usp=sharing",
     "Sayfa Sayısı": "321",
@@ -319,7 +374,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "30",
+    "No": "35",
     "Kitap Adı": "Sorumsuzca Söylenen Sözler 2.Cild",
     "Link": "https://drive.google.com/file/d/1_89lQQum3_-B0_444xLsiv_AzpQuaRTZ/view?usp=sharing",
     "Sayfa Sayısı": "305",
@@ -330,7 +385,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "31",
+    "No": "36",
     "Kitap Adı": "Subha-i Sıbyan - En Küçük Lügat Çocukların Tesbihi",
     "Link": "https://drive.google.com/file/d/1acwADaIbXj29QtNk_2h3kLpHa74fnVeA/view?usp=sharing",
     "Sayfa Sayısı": "162",
@@ -341,7 +396,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "32",
+    "No": "37",
     "Kitap Adı": "Şefaat Ya Resulallah - Delilleri ve Hikmetleriyle Şefaat",
     "Link": "https://drive.google.com/file/d/1VcWlnKkmcIZHnfb4MU3tZC8G_kIAQGMf/view?usp=sharing",
     "Sayfa Sayısı": "81",
@@ -352,7 +407,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "33",
+    "No": "38",
     "Kitap Adı": "Zemzem Tarihi ve Faziletleri",
     "Link": "https://drive.google.com/file/d/1JrgkKHKm697GrQSpPoAZhzu4ZgsgeKks/view?usp=sharing",
     "Sayfa Sayısı": "88",
@@ -363,7 +418,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "34",
+    "No": "39",
     "Kitap Adı": "Zilletin Tek İlacı",
     "Link": "https://drive.google.com/file/d/1TPNoHuCCp3qx_81HAyABCk1mau3kt9zj/view?usp=sharing",
     "Sayfa Sayısı": "66",
@@ -374,7 +429,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "35",
+    "No": "40",
     "Kitap Adı": "Altı Sıfat (Urduca - Türkçe)",
     "Link": "https://drive.google.com/file/d/1RwlGQhDc5pTfuAf__y7rOtt86pLFqNhk/view?usp=sharing",
     "Sayfa Sayısı": "48",
@@ -385,7 +440,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "36",
+    "No": "41",
     "Kitap Adı": "Altı Sıfat ve Tebliğ Metodu Hakkında Kandehlevi'den Mektup",
     "Link": "https://drive.google.com/file/d/13PDhGhjoLDD3iSf79p0nX01HO73XGhzU/view?usp=sharing",
     "Sayfa Sayısı": "65",
@@ -396,7 +451,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "37",
+    "No": "42",
     "Kitap Adı": "Müntehab Ehadis Hadislerden Demetler",
     "Link": "https://drive.google.com/file/d/181X5B4V8bmFb_sC373L-ofIjGdre8PwC/view?usp=sharing",
     "Sayfa Sayısı": "714",
@@ -407,7 +462,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "38",
+    "No": "43",
     "Kitap Adı": "Harflerin Sırları",
     "Link": "https://drive.google.com/file/d/1Jd20Ya4kDeyL3O3fQYXrY_JiU8vhQfAv/view?usp=sharing",
     "Sayfa Sayısı": "200",
@@ -418,7 +473,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "39",
+    "No": "44",
     "Kitap Adı": "Evradı Rifaiyye - Ahmed Er Rifai Hazretleri'nin Evradı",
     "Link": "https://drive.google.com/file/d/1RR5WEoMlYOG0q1pqQYt0FwHCoH9faCj7/view?usp=sharing",
     "Sayfa Sayısı": "114",
@@ -429,7 +484,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "40",
+    "No": "45",
     "Kitap Adı": "Hicri Aylar 07 - Receb",
     "Link": "https://drive.google.com/file/d/1yh_N-g5_ydz57V6Rsb3-h9-BwLfSBtQN/view?usp=sharing",
     "Sayfa Sayısı": "96",
@@ -440,7 +495,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "41",
+    "No": "46",
     "Kitap Adı": "Hicri Aylar 08 - Şaban",
     "Link": "https://drive.google.com/file/d/16MiQ8pXxF4E9OamS0t2bb5BoiV8AS4Nc/view?usp=sharing",
     "Sayfa Sayısı": "96",
@@ -451,7 +506,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "42",
+    "No": "47",
     "Kitap Adı": "2020 Aralık Lalegül",
     "Link": "https://drive.google.com/file/d/1mcVtKNBeIfKN_dZJw9w6SaVK3vuzbSwU/view?usp=sharing",
     "Sayfa Sayısı": "74",
@@ -462,7 +517,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "43",
+    "No": "48",
     "Kitap Adı": "Lübab Tercümesi - Muhtasar-ı Kuduri Şerhi 1.Cild",
     "Link": "https://drive.google.com/file/d/1mkQ3u5geXC8mjqe2sxwS3V2O_P0Kq7lT/view?usp=sharing",
     "Sayfa Sayısı": "607",
@@ -473,7 +528,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "44",
+    "No": "49",
     "Kitap Adı": "Şerh ve Havvası ile Kaside-i Bürde",
     "Link": "https://drive.google.com/file/d/1XWrTT2exlDWRPRzUTGpwv5XneFOlhkrF/view?usp=sharing",
     "Sayfa Sayısı": "256",
@@ -484,7 +539,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "45",
+    "No": "50",
     "Kitap Adı": "Hicri Aylar 01 - Muharrem",
     "Link": "https://drive.google.com/file/d/1D09KWgVSEeUxiA1soUTiti2DxHNa_PoA/view?usp=sharing",
     "Sayfa Sayısı": "96",
@@ -495,7 +550,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "46",
+    "No": "51",
     "Kitap Adı": "Hicri Aylar 02 - Safer",
     "Link": "https://drive.google.com/file/d/1dwqhUALT3iYFMvzccfYXakWbcAYm_HRa/view?usp=sharing",
     "Sayfa Sayısı": "96",
@@ -506,7 +561,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "47",
+    "No": "52",
     "Kitap Adı": "Hicri Aylar 04 - Rebiülahir",
     "Link": "https://drive.google.com/file/d/1dhKRHoWC1RZNxzbWnkAg8gvjU2UNu0GF/view?usp=sharing",
     "Sayfa Sayısı": "88",
@@ -517,7 +572,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "48",
+    "No": "53",
     "Kitap Adı": "Hicri Aylar 05 - Cemaziyelevvel",
     "Link": "https://drive.google.com/file/d/1i0Yx6YcgiTrGUUIihqSQMk3jXXZfyAdn/view?usp=sharing",
     "Sayfa Sayısı": "88",
@@ -528,7 +583,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "49",
+    "No": "54",
     "Kitap Adı": "Hicri Aylar 06 - Cemaziyelahir",
     "Link": "https://drive.google.com/file/d/1bNRiJSIY8HKDwB5paP_fd4zZAuh6sdcU/view?usp=sharing",
     "Sayfa Sayısı": "96",
@@ -539,7 +594,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "50",
+    "No": "55",
     "Kitap Adı": "Hicri Aylar 12 - Zilhicce",
     "Link": "https://drive.google.com/file/d/1gub6AI9CZo5DnHylweOB5YrB1zI54P2z/view?usp=sharing",
     "Sayfa Sayısı": "96",
@@ -550,7 +605,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "51",
+    "No": "56",
     "Kitap Adı": "Hicri Aylar 10 - Şevval",
     "Link": "https://drive.google.com/file/d/1q8LnFgLBRX9EdlQReUU2ccHrYrDC_tNF/view?usp=sharing",
     "Sayfa Sayısı": "142",
@@ -561,7 +616,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "52",
+    "No": "57",
     "Kitap Adı": "Hicri Aylar 11 - Zilkade",
     "Link": "https://drive.google.com/file/d/1QBxLiI6AoGzYqvCzMVXmrjjczm7Veu-V/view?usp=sharing",
     "Sayfa Sayısı": "104",
@@ -572,7 +627,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "53",
+    "No": "58",
     "Kitap Adı": "Mektubatı Rabbani Kelime Anlamlı Tercümesi 4.Cilt",
     "Link": "https://drive.google.com/file/d/1FIFEG9Q4UPeRsTA6ZY_iVvu28pKhKSFJ/view?usp=sharing",
     "Sayfa Sayısı": "842",
@@ -583,7 +638,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "54",
+    "No": "59",
     "Kitap Adı": "Asrı Saadette Görülen İlahi Yardımlar",
     "Link": "https://drive.google.com/file/d/1gMlLOESGfH9qwIkxSbc8fsO37dR1Kht_/view?usp=sharing",
     "Sayfa Sayısı": "223",
@@ -594,7 +649,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "55",
+    "No": "60",
     "Kitap Adı": "El-Hidaye Tercümesi 4.Cilt",
     "Link": "https://drive.google.com/file/d/1XkWRglrcMRrYr4zk_R8eYafYFwRF23-V/view?usp=sharing",
     "Sayfa Sayısı": "590",
@@ -605,7 +660,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "56",
+    "No": "61",
     "Kitap Adı": "Evradı Rabbaniyye İmam Rabbaninin (k.s) Günlük Virdleri",
     "Link": "https://drive.google.com/file/d/1pS3mfX1eUbpHMEiZvhmKVHSTBQmVIcRv/view?usp=sharing",
     "Sayfa Sayısı": "200",
@@ -616,7 +671,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "57",
+    "No": "62",
     "Kitap Adı": "Günyetüt Talibin - İlim ve Esrar Hazinesi",
     "Link": "https://drive.google.com/file/d/1PmgdVnRQD1Uxu36B_4K2RESLCKuzTwa2/view?usp=sharing",
     "Sayfa Sayısı": "527",
@@ -627,7 +682,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "58",
+    "No": "63",
     "Kitap Adı": "Hayatüs Sahabe 3.Cilt",
     "Link": "https://drive.google.com/file/d/1NVCSzMOysZubjAien6C4dFl3RdyvFeNw/view?usp=sharing",
     "Sayfa Sayısı": "530",
@@ -638,7 +693,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "59",
+    "No": "64",
     "Kitap Adı": "Hicri Aylar 03 - Rebiülevvel",
     "Link": "https://drive.google.com/file/d/1EKnaitFvtpWzFxFPrwtN79_sairNRweg/view?usp=sharing",
     "Sayfa Sayısı": "112",
@@ -649,7 +704,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "60",
+    "No": "65",
     "Kitap Adı": "Marifetname",
     "Link": "https://drive.google.com/file/d/1Pv5NHGc6s9J1U50qYC2SL6UVOkzoVhMs/view?usp=sharing",
     "Sayfa Sayısı": "960",
@@ -660,7 +715,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "61",
+    "No": "66",
     "Kitap Adı": "Ruhul Beyan Tefsirinden Seçme Sureler Tercümesi 1.Cild",
     "Link": "https://drive.google.com/file/d/1qFD4DIkdiHX1PLKZ2vR_ulbhjxXOooTl/view?usp=sharing",
     "Sayfa Sayısı": "575",
@@ -671,7 +726,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "62",
+    "No": "67",
     "Kitap Adı": "Çocuklara Özel 70 Eser",
     "Link": "https://mfs79.github.io/A/Cocuk70Eser.html",
     "Sayfa Sayısı": "1694",
@@ -682,7 +737,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "63",
+    "No": "68",
     "Kitap Adı": "Sırlı Dualar Hazinesi",
     "Link": "https://drive.google.com/file/d/1FWWR6zXsjg6ehn_AFTgoDRGCtii0Jl0U/view?usp=sharing",
     "Sayfa Sayısı": "1248",
@@ -693,7 +748,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "64",
+    "No": "69",
     "Kitap Adı": "Kuranı Mecid Tefsirli Meali Alisi Metinsiz Meal",
     "Link": "https://drive.google.com/file/d/1MP8jY-xIny6mwS81W2GEN7ilmMHHtytt/view?usp=sharing",
     "Sayfa Sayısı": "610",
@@ -704,7 +759,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "65",
+    "No": "70",
     "Kitap Adı": "15 Saatte Kuran Öğreniyorum",
     "Link": "https://drive.google.com/file/d/1tmDHg8eB7o_cWw1d9IqJsy7ZH3e4FQXi/view?usp=sharing",
     "Sayfa Sayısı": "245",
@@ -715,7 +770,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "66",
+    "No": "71",
     "Kitap Adı": "Necatü'l-Valideyn Risalesi",
     "Link": "https://drive.google.com/file/d/12X9JJKAcEeDVmQ13XVviSjJoIrhVjzhv/view?usp=sharing",
     "Sayfa Sayısı": "437",
@@ -726,7 +781,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "67",
+    "No": "72",
     "Kitap Adı": "2020 Kasım Lalegül",
     "Link": "https://drive.google.com/file/d/1yD3_xmk_IgosUjUu4CN385nrkS1gaNkf/view?usp=sharing",
     "Sayfa Sayısı": "74",
@@ -737,7 +792,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "68",
+    "No": "73",
     "Kitap Adı": "El-Hidaye Tercümesi 3.Cilt",
     "Link": "https://drive.google.com/file/d/1eCdLRhV1BOWuNHPPYIAreZwZORqSlM11/view?usp=sharing",
     "Sayfa Sayısı": "571",
@@ -748,7 +803,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "69",
+    "No": "74",
     "Kitap Adı": "Kuşeyri Risalesi",
     "Link": "https://drive.google.com/file/d/1Vv4naDFTtlY1DDRKaO53m68Q8GHQiVl2/view?usp=sharing",
     "Sayfa Sayısı": "760",
