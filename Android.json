@@ -64,6 +64,24 @@
   },
   {
     "No": "8",
+    "Konu": "Listeye Son Eklenenler\n<br/>\n(Siyah Beyaz)",
+    "Link": null,
+    "Konu Sayısı": "0",
+    "Güncelleme Tarihi": "2021-02-15T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/Bitti2.png",
+    "Durumu": "Hazırlanıyor"
+  },
+  {
+    "No": "9",
+    "Konu": "Kitap Kategorileri",
+    "Link": null,
+    "Konu Sayısı": "0",
+    "Güncelleme Tarihi": "2021-02-15T08:00:00.000Z",
+    "Resim": "https://mfs79.github.io/A/iconAna/KitapKatogori.jpg",
+    "Durumu": "Hazırlanıyor"
+  },
+  {
+    "No": "10",
     "Konu": "99 İsm-i Şerif ve Havası",
     "Link": "https://mfs79.github.io/A/EsmaTekTekOzel.html",
     "Konu Sayısı": "62",
@@ -72,7 +90,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "9",
+    "No": "11",
     "Konu": "Fıkhi Sorular (Videolu)",
     "Link": "https://mfs79.github.io/A/Sualler.html",
     "Konu Sayısı": "2192",
@@ -81,7 +99,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "10",
+    "No": "12",
     "Konu": "Cübbeli Hocanın Kitaplarının (İçindekiler)",
     "Link": "https://mfs79.github.io/A/indexler.html",
     "Konu Sayısı": "6863",
@@ -90,7 +108,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "11",
+    "No": "13",
     "Konu": "Diğer Kitapların (İçindekiler)",
     "Link": "https://mfs79.github.io/A/indexler2.html",
     "Konu Sayısı": "7805",
@@ -99,7 +117,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "12",
+    "No": "14",
     "Konu": "Kitaplardan Kitapçık",
     "Link": "https://mfs79.github.io/A/Kitapcik.html",
     "Konu Sayısı": "88",
@@ -108,7 +126,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "13",
+    "No": "15",
     "Konu": "cubbeliden.blogspot.com (Arama)",
     "Link": "https://mfs79.github.io/A/Blog.html",
     "Konu Sayısı": "505",
@@ -117,7 +135,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "14",
+    "No": "16",
     "Konu": "Mektubat-ı Rabbani (Ali Kara) (Tektek Mektuplar)",
     "Link": "https://mfs79.github.io/A/Mektubat.html",
     "Konu Sayısı": "313",
@@ -126,7 +144,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "15",
+    "No": "17",
     "Konu": "İlmihal Bilgileri (Tek Tek)",
     "Link": "https://mfs79.github.io/A/ilmihal.html",
     "Konu Sayısı": "338",
@@ -135,7 +153,7 @@
     "Durumu": "Hazırlanıyor"
   },
   {
-    "No": "16",
+    "No": "18",
     "Konu": "Celaleyn Tefsiri Tercümesi (Tek Tek)",
     "Link": "https://mfs79.github.io/A/CelaleynTefsiri.html",
     "Konu Sayısı": "114",
@@ -144,7 +162,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "17",
+    "No": "19",
     "Konu": "Receb-i Şerif İbadetleri",
     "Link": "https://mfs79.github.io/A/Receb.html",
     "Konu Sayısı": "127",
@@ -153,7 +171,7 @@
     "Durumu": "Hazırlanıyor"
   },
   {
-    "No": "18",
+    "No": "20",
     "Konu": "İbret Tabloları\n<br/>\n(Mustafa Özşimşekler)",
     "Link": "https://mfs79.github.io/A/ibretTablolari.html",
     "Konu Sayısı": "68",
@@ -162,7 +180,7 @@
     "Durumu": "Hazır"
   },
   {
-    "No": "19",
+    "No": "21",
     "Konu": "Klavuz (Liste ile İlgili Bilgiler)",
     "Link": "https://drive.google.com/file/d/1tovgMxEXUaYBZbGzJFSqUUd97jaBfRSM/view?usp=sharing",
     "Konu Sayısı": "1",
