@@ -3197,7 +3197,7 @@
   {
     "No": "355",
     "Kitap Adı": "Gizli Telkinle Kuran Terapisi - Bilinçaltını Yeniden İnşa Etmek",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1C0ouQWem9m2W1hnrTHWS9r5vql5ipGcH/view?usp=sharing",
     "Sayfa Sayısı": "152",
     "Yazar": "(Kubilay Aktaş)",
     "Yayınevi": "(-)",
@@ -6572,11 +6572,11 @@
   {
     "No": "730",
     "Kitap Adı": "Reşahat Hayat Pınarından Damlalar",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/15LDa6jvTlG7yjBuWsyCEU-akTTTMBTv_/view?usp=sharing",
     "Sayfa Sayısı": "607",
     "Yazar": "(Mevlana Ali b.Hüseyin Es-Safi)",
     "Yayınevi": "Muallim Neşriyat",
-    "Durumu": "Taranmadı"
+    "Durumu": "Hazır"
   },
   {
     "No": "731",
@@ -6788,7 +6788,7 @@
   {
     "No": "754",
     "Kitap Adı": "Ruhul Furkan Tefsiri 2. Cild",
-    "Link": null,
+    "Link": "https://drive.google.com/file/d/1AqvFn4knrgOM21XP_KCZLU4c75fTxjaN/view?usp=sharing",
     "Sayfa Sayısı": "839",
     "Yazar": "(Mahmud Ustaosmanoğlu)",
     "Yayınevi": "Ahiska Yayınevi",
@@ -8394,6 +8394,33 @@
     "Sayfa Sayısı": "200",
     "Yazar": "(Dilaver Selvi)",
     "Yayınevi": "Semerkand Yayınevi",
+    "Durumu": "Taranmadı"
+  },
+  {
+    "No": "933",
+    "Kitap Adı": "Nefs Hep Karşı Gelir - Altın Öğütler",
+    "Link": "https://drive.google.com/file/d/1zMSUfVjzXpzE0S65oV0dxleZbb0sn_3M/view?usp=sharing",
+    "Sayfa Sayısı": "137",
+    "Yazar": "(Abdulkadir Geylani)",
+    "Yayınevi": "Gelenek Yayınları",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "934",
+    "Kitap Adı": "Rızkını Dert Etme - Altın Öğütler",
+    "Link": "https://drive.google.com/file/d/1StkcVdXJlzJBe3POGPtFhkphP6RVWaY5/view?usp=sharing",
+    "Sayfa Sayısı": "136",
+    "Yazar": "(Abdulkadir Geylani)",
+    "Yayınevi": "Gelenek Yayınları",
+    "Durumu": "Hazır"
+  },
+  {
+    "No": "935",
+    "Kitap Adı": "İzahul İzhar Tercümesi",
+    "Link": null,
+    "Sayfa Sayısı": "450",
+    "Yazar": "(Raşit Akbal)",
+    "Yayınevi": "Yasin Yayınevi",
     "Durumu": "Taranmadı"
   }
 ]
