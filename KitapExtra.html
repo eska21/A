@@ -61,7 +61,7 @@
         color: #4299e1;
       }
       p {
-        color: #91c4ee;
+        color: tomato;
         text-align: center;
       }
       :root {
@@ -116,8 +116,7 @@
         filter: 'alpha(opacity=100)';
         -ms-filter: 'alpha(opacity=100)';
       }
-	  
-	        .header {
+	  .header {
         display: flex;
         align-items: center;
       }
@@ -130,39 +129,39 @@
   </head>
 
   <body>
-    <div class="container">
-      <div class="header">
-        <a
-          href="https://eska21.github.io/A/AnaSayfa.html"
-          class="anasayfa-btn waves-effect waves-light btn"
+      <div class="container">
+	  <div class="header">
+      <a
+        href="https://eska21.github.io/A/AnaSayfa.html"
+        class="anasayfa-btn waves-effect waves-light btn"
+      >
+        <?xml version="1.0" encoding="iso-8859-1"?>
+        <svg
+          version="1.1"
+          id="Capa_1"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0px"
+          y="0px"
+          viewBox="0 0 491.398 491.398"
+          style="enable-background: new 0 0 491.398 491.398"
+          xml:space="preserve"
         >
-          <?xml version="1.0" encoding="iso-8859-1"?>
-          <svg
-            version="1.1"
-            id="Capa_1"
-            xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-            x="0px"
-            y="0px"
-            viewBox="0 0 491.398 491.398"
-            style="enable-background: new 0 0 491.398 491.398"
-            xml:space="preserve"
-          >
-            <g id="Icons_19_">
-              <path
-                d="M481.765,220.422L276.474,15.123c-16.967-16.918-44.557-16.942-61.559,0.023L9.626,220.422
+          <g id="Icons_19_">
+            <path
+              d="M481.765,220.422L276.474,15.123c-16.967-16.918-44.557-16.942-61.559,0.023L9.626,220.422
         c-12.835,12.833-12.835,33.65,0,46.483c12.843,12.842,33.646,12.842,46.487,0l27.828-27.832v214.872
         c0,19.343,15.682,35.024,35.027,35.024h74.826v-97.62c0-7.584,6.146-13.741,13.743-13.741h76.352
         c7.59,0,13.739,6.157,13.739,13.741v97.621h74.813c19.346,0,35.027-15.681,35.027-35.024V239.091l27.812,27.815
         c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,254.072,494.609,233.256,481.765,220.422z"
-              />
-            </g>
-          </svg>
-        </a>
-        <h1 class="font-medium text-xl sm:text-xl text-center p-2">
-          { Ahmet Mahmut Ünlü Kitaplığı }
-        </h1>
-      </div>
+            />
+          </g>
+        </svg>
+      </a>
+      <h1 class="font-medium text-xl sm:text-xl text-center p-2">
+        { Kitaplık Extra Konular }
+      </h1>
+	  </div>
       <div id="wrp">
         <section class="text-gray-700 body-font">
           <div class="container px-5 py-24 mx-auto">
@@ -170,7 +169,7 @@
           </div>
         </section>
       </div>
-    </div>
+      </div>
 
     <a href="#" id="scroll" style="display: none">
       <?xml version="1.0" encoding="iso-8859-1"?>
@@ -201,7 +200,7 @@
       window.onload = function () {
         let htmlStr = ''
 
-        fetch('https://raw.githubusercontent.com/eska21/A/master/Cubbeli.json')
+        fetch('https://raw.githubusercontent.com/eska21/A/master/KitapExtra.json')
           .then((response) => response.json())
           .then((data) => {
             data.forEach((p) => {
@@ -219,10 +218,10 @@
                       p['Link'] != null
                         ? '<a href="' +
                           p['Link'] +
-                          '" target="_blank" class="link-renk inline-flex items-center lg:mb-0"><h1 class="title-font text-lg font-medium text-teal-600 mb-3">' +
+                          '" class="link-renk inline-flex items-center lg:mb-0"><h1 class="title-font text-lg font-medium text-blue-500 mb-3">' +
                           p['Konu'] +
                           '</a></h1>'
-                        : '<h1 class="title-font text-lg font-medium text-teal-600 mb-3">' +
+                        : '<h1 class="title-font text-lg font-medium text-red-800 mb-3">' +
                           p['Konu'] +
                           '</h1>'
                     }
@@ -233,7 +232,7 @@
                         <span class="text-red-800 mr-3 inline-flex items-center leading-none text-sm pr-3 py-1 border-r-2 border-gray-300">
                         ${
                           p['Konu Sayısı'] != null ? p['Konu Sayısı'] : '0'
-                        } Sayfa
+                        } Konu
                       </span>
                       <span class="text-blue-500 inline-flex items-center leading-none text-sm">
                         ${p['Durumu']}

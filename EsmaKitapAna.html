@@ -160,7 +160,7 @@
           </svg>
         </a>
         <h1 class="font-medium text-xl sm:text-xl text-center p-2">
-          { Ahmet Mahmut Ünlü Kitaplığı }
+          { Kütüphanede Bulunan, Esmaullahi'l-Hüsna - 99 İsm-i Şerif }
         </h1>
       </div>
       <div id="wrp">
@@ -201,7 +201,7 @@
       window.onload = function () {
         let htmlStr = ''
 
-        fetch('https://raw.githubusercontent.com/eska21/A/master/Cubbeli.json')
+        fetch('https://raw.githubusercontent.com/eska21/A/master/EsmaKitapAna.json')
           .then((response) => response.json())
           .then((data) => {
             data.forEach((p) => {
@@ -222,7 +222,7 @@
                           '" target="_blank" class="link-renk inline-flex items-center lg:mb-0"><h1 class="title-font text-lg font-medium text-teal-600 mb-3">' +
                           p['Konu'] +
                           '</a></h1>'
-                        : '<h1 class="title-font text-lg font-medium text-teal-600 mb-3">' +
+                        : '<h1 class="title-font text-lg font-medium text-red-800 mb-3">' +
                           p['Konu'] +
                           '</h1>'
                     }
