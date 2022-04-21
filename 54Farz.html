@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://unpkg.com/tailwindcss@1.9.5/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+
+    <style>
+	
+      body {
+        background: url('https://eska21.github.io/A/iconAna/0Arka1.png');
+      }
+
+      :root {
+        --anasayfa-ikon-renk: #fff;
+        --anasayfa-buton-renk: #4299e1;
+        --Harf-renk: #9b2c2c;
+        --kime-yazildi-renk: #9b2c2c;
+        --input-alt-cizgi: #285e61;
+        --dropdown-arkaplan: #ffffff;
+        --dropdown-yazi-renk: #4299e1;
+        --site-arkaplan: #f9f9f9;
+      }
+
+      .anasayfa-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--anasayfa-buton-renk);
+        width: 41px;
+        padding: 0 13px;
+        margin: 1rem;
+        font-size: 14px;
+        outline: 0;
+        text-decoration: none;
+        color: #fff;
+        border: none;
+        border-radius: 2px;
+        height: 36px;
+        line-height: 36px;
+        text-align: center;
+        letter-spacing: 0.5px;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+          0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+      }
+
+      @media screen and (max-width: 728px) {
+        .anasayfa-btn {
+          margin: 0.5rem;
+        }
+      }
+
+      .anasayfa-btn:hover {
+        box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14),
+          0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);
+        background-color: #ff8080;
+      }
+
+      .anasayfa-btn svg {
+        width: 15px;
+        fill: var(--anasayfa-ikon-renk);
+      }
+
+      h1 {
+        color: #4299e1;
+      }
+
+      :root {
+        --link-renk: #4299e1;
+      }
+
+      .container {
+        max-width: 1400px;
+        margin: 0 auto;
+      }
+
+      #wrp {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      .link-renk {
+        color: var(--link-renk);
+      }
+
+      .card-image {
+        margin: 10px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 100px;
+        height: auto;
+      }
+
+      #scroll {
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        cursor: pointer;
+        width: 50px;
+        height: 50px;
+        background-color: #4299e1;
+        text-indent: -9999px;
+        display: none;
+        -webkit-border-radius: 60px;
+        -moz-border-radius: 60px;
+        border-radius: 60px;
+      }
+
+      #scroll svg {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 20px;
+      }
+
+      #scroll:hover {
+        background-color: #ff8080;
+        opacity: 1;
+        filter: 'alpha(opacity=100)';
+        -ms-filter: 'alpha(opacity=100)';
+      }
+
+      .header {
+        display: flex;
+        align-items: center;
+      }
+
+      .header h1 {
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .sticky {
+        position: sticky;
+        top: 0;
+        background: var(--site-arkaplan);
+      }
+      @media screen and (max-width: 480px) {
+        .container {
+          width: 100%;
+        }
+
+        .row {
+          margin-bottom: 0;
+        }
+
+        .input-field {
+          margin-top: 0;
+          margin-bottom: 0;
+        }
+
+        td,
+        th {
+          padding: 10px 8px;
+        }
+
+        th {
+          font-size: 12px;
+        }
+
+        .order-table {
+          font-size: 12px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="header">
+        <a
+          href="https://eska21.github.io/A/AnaSayfa.html"
+          class="anasayfa-btn waves-effect waves-light btn"
+        >
+          <?xml version="1.0" encoding="iso-8859-1"?>
+          <svg
+            version="1.1"
+            id="Capa_1"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px"
+            y="0px"
+            viewBox="0 0 491.398 491.398"
+            style="enable-background: new 0 0 491.398 491.398"
+            xml:space="preserve"
+          >
+            <g id="Icons_19_">
+              <path
+                d="M481.765,220.422L276.474,15.123c-16.967-16.918-44.557-16.942-61.559,0.023L9.626,220.422
+        c-12.835,12.833-12.835,33.65,0,46.483c12.843,12.842,33.646,12.842,46.487,0l27.828-27.832v214.872
+        c0,19.343,15.682,35.024,35.027,35.024h74.826v-97.62c0-7.584,6.146-13.741,13.743-13.741h76.352
+        c7.59,0,13.739,6.157,13.739,13.741v97.621h74.813c19.346,0,35.027-15.681,35.027-35.024V239.091l27.812,27.815
+        c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,254.072,494.609,233.256,481.765,220.422z"
+              />
+            </g>
+          </svg>
+        </a>
+        <h1 class="font-medium text-xl sm:text-xl text-center p-2">
+          { 54 Farz (Ahmet Mahmut Ünlü) }
+        </h1>
+      </div>
+
+      <div id="wrp">
+        <section class="text-gray-700 body-font">
+          <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-wrap -m-4"></div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <a href="#" id="scroll" style="display: none">
+      <?xml version="1.0" encoding="iso-8859-1"?>
+      <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+      <svg
+        version="1.1"
+        id="Capa_1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px"
+        y="0px"
+        viewBox="0 0 50.454 50.454"
+        style="enable-background: new 0 0 50.454 50.454"
+        xml:space="preserve"
+      >
+        <path
+          style="fill: #ffffff"
+          d="M42.359,25.479L27.122,1.25c-1.048-1.667-2.747-1.667-3.795,0L8.095,25.479
+          c-1.048,1.667-0.316,2.801,1.635,2.532l5.43-0.885c1.95-0.269,3.531,1.11,3.531,3.079v16.683c0,1.969,1.596,3.566,3.565,3.566
+          h5.935c1.97,0,3.566-1.596,3.566-3.566V30.206c0-1.969,1.582-3.348,3.531-3.079l5.436,0.885
+          C42.674,28.28,43.407,27.146,42.359,25.479z"
+        />
+      </svg>
+    </a>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+      window.onload = function () {
+        let htmlStr = ''
+
+        fetch(
+          'https://raw.githubusercontent.com/eska21/A/main/54Farz.json'
+        )
+          .then((response) => response.json())
+          .then((data) => {
+            data.forEach((p) => {
+              htmlStr += `<div class="p-2 w-full my-card">
+                <div class="h-full border-2 border-blue-500 rounded-lg overflow-hidden flex">
+                  <div class="p-6 flex flex-col h-full" style="flex:1">
+                    ${
+                      p['Link'] != null
+                        ? '<a href="' +
+                          p['Link'] +
+                          '" target="_self" class="link-renk inline-flex items-center lg:mb-0"><h4 class="title-font mt-0 text-lg font-medium text-blue-500 mb-3">' +
+                          p['Kategori'] +
+                          '</a></h4>'
+                        : '<h4 class="title-font mt-0 text-lg font-medium text-red-500 mb-3">' +
+                          p['Kategori'] +
+                          '</h4>'
+                    }
+                    <p class="leading-relaxed mb-3 gray-800">${p['İçerik']}</p>
+                </div>
+                </div>
+              </div>`
+            })
+          })
+          .then(() => {
+            document.querySelector('#wrp').innerHTML = htmlStr
+          })
+      }
+
+      $(document).ready(function () {
+        $(window).scroll(function () {
+          if ($(this).scrollTop() > 100) {
+            $('#scroll').fadeIn()
+          } else {
+            $('#scroll').fadeOut()
+          }
+        })
+        $('#scroll').click(function () {
+          $('html, body').animate(
+            {
+              scrollTop: 0,
+            },
+            600
+          )
+          return false
+        })
+      })
+    </script>
+  </body>
+</html>
